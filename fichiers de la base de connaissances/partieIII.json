@@ -1,0 +1,227 @@
+{
+  "Partie III": {
+    "Titre": "DOCUMENTS RELATIFS AUX BONNES PRATIQUES DE FABRICATION",
+    "Page": 109,
+    "Sections": [
+      {
+        "Titre": "Gestion du Risque Qualité (ICH Q9)",
+        "Page": 110,
+        "Sous-sections": [
+          {
+            "Titre": "Préambule",
+            "Page": 110,
+            "mots_cles": [
+              "gestion de la qualité",
+              "gestion du risque qualité",
+              "document ICH Q9",
+              "autorités réglementaires",
+              "inspections BPF",
+              "principes de gestion du risque qualité",
+              "ligne directrice",
+              "processus de gestion du risque qualité"
+            ]
+          },
+          {
+            "Titre": "Introduction",
+            "Page": 111,
+            "mots_cles": [
+              "gestion de la qualité",
+              "gestion du risque qualité",
+              "industrie pharmaceutique",
+              "autorités compétentes",
+              "protection du patient",
+              "développement et fabrication des médicaments",
+              "prise de décision",
+              "exigences réglementaires"
+            ]
+          },
+          {
+            "Titre": "Champs d’Application",
+            "Page": 112,
+            "mots_cles": [
+              "gestion de la qualité",
+              "gestion du risque qualité",
+              "qualité pharmaceutique",
+              "développement",
+              "fabrication",
+              "distribution",
+              "inspection",
+              "matières premières",
+              "articles de conditionnement"
+            ]
+          },
+          {
+            "Titre": "Principes de la Gestion du Risque Qualité",
+            "Page": 112,
+            "mots_cles": [
+              "gestion de la qualité",
+              "gestion du risque qualité",
+              "principes de gestion du risque",
+              "processus de gestion du risque qualité",
+              "niveau de risque",
+              "documentation"
+            ]
+          },
+          {
+            "Titre": "Processus Général de Gestion du Risque Qualité",
+            "Page": 112,
+            "mots_cles": [
+              "gestion du risque qualité",
+              "évaluation du risque",
+              "communication du risque",
+              "cycle de vie du produit",
+              "prise de décision",
+              "audit du risque",
+              "gestion des anomalies"
+            ]
+          },
+          {
+            "Titre": "Méthodologie de Gestion du Risque",
+            "Page": 116,
+            "mots_cles": [
+              "gestion du risque qualité",
+              "analyse des tendances",
+              "gestion des défauts de qualité",
+              "procédures opérationnelles",
+              "outils statistiques",
+              "AMDE",
+              "HACCP",
+              "modélisation du risque"
+            ]
+          },
+          {
+            "Titre": "Intégration de la Gestion du Risque Qualité",
+            "Page": 117,
+            "mots_cles": [
+              "gestion du risque qualité",
+              "systèmes qualité",
+              "exigences réglementaires",
+              "contrôle qualité",
+              "inspection et évaluation",
+              "collaboration avec les autorités",
+              "optimisation des ressources"
+            ]
+          },
+          {
+            "Titre": "Définitions",
+            "Page": 118,
+            "mots_cles": [
+              "analyse de risque",
+              "gestion du risque",
+              "prise de décision",
+              "maîtrise du risque",
+              "communication relative au risque",
+              "système qualité",
+              "évaluation des risques"
+            ]
+          },
+          {
+            "Titre": "Références",
+            "Page": 120,
+            "mots_cles": [
+              "ICH Q8",
+              "gestion du risque",
+              "analyse de la fiabilité",
+              "modes de défaillance",
+              "normes ISO",
+              "gestion des dispositifs médicaux"
+            ]
+          }
+        ]
+      },
+      {
+        "Titre": "Système Qualité Pharmaceutique (ICH Q10)",
+        "Page": 130,
+        "Sous-sections": [
+          {
+            "Titre": "Préambule",
+            "Page": 130,
+            "mots_cles": [
+              "ICH Q10",
+              "système qualité pharmaceutique",
+              "assurance de la qualité",
+              "bonnes pratiques de fabrication",
+              "innovation pharmaceutique",
+              "amélioration continue"
+            ]
+          },
+          {
+            "Titre": "Système Qualité Pharmaceutique",
+            "Page": 131,
+            "mots_cles": [
+              "système qualité pharmaceutique",
+              "management de la qualité",
+              "bonnes pratiques de fabrication",
+              "contrôle qualité",
+              "assurance qualité",
+              "gestion des risques qualité",
+              "audit qualité"
+            ]
+          },
+          {
+            "Titre": "Responsabilité de la Direction",
+            "Page": 134,
+            "mots_cles": [
+              "responsabilité de la direction",
+              "leadership qualité",
+              "gestion des fournisseurs",
+              "gestion proactive des risques",
+              "mise en conformité réglementaire"
+            ]
+          },
+          {
+            "Titre": "Amélioration Continue des Performances du Procédé",
+            "Page": 136,
+            "mots_cles": [
+              "amélioration continue",
+              "performances du procédé",
+              "contrôle des processus",
+              "analyse des tendances",
+              "audit qualité",
+              "validation des procédés"
+            ]
+          },
+          {
+            "Titre": "Glossaire",
+            "Page": 142,
+            "mots_cles": [
+              "action corrective",
+              "amélioration continue",
+              "gestion des changements",
+              "contrôle des processus",
+              "exigences réglementaires"
+            ]
+          }
+        ]
+      },
+      {
+        "Titre": "Exigences Internationales Harmonisées pour la Certification d’un Lot",
+        "Page": 147,
+        "mots_cles": [
+          "certification des lots",
+          "évaluation de la conformité",
+          "Bonnes Pratiques de Fabrication",
+          "BPF",
+          "libération des lots",
+          "contrôle qualité",
+          "inspection réglementaire",
+          "importation et exportation pharmaceutique"
+        ]
+      },
+      {
+        "Titre": "Lignes Directrices du 19 mars 2015 Relatives à l’Évaluation Formalisée du Risque pour les Excipients",
+        "Page": 151,
+        "mots_cles": [
+          "évaluation formalisée du risque",
+          "bonnes pratiques de fabrication",
+          "BPF",
+          "excipients pharmaceutiques",
+          "gestion des risques qualité",
+          "audit qualité",
+          "conformité réglementaire",
+          "sécurité des médicaments"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "Partie IV": {
+    "Titre": "GUIDE DES BONNES PRATIQUES DE FABRICATION SPÉCIFIQUES AUX MÉDICAMENTS DE THÉRAPIE INNOVANTE",
+    "Page": 155,
+    "mots_cles": [
+      "bonnes pratiques de fabrication",
+      "BPF",
+      "médicaments de thérapie innovante",
+      "MTI",
+      "autorisation de mise sur le marché",
+      "essais cliniques",
+      "système qualité pharmaceutique",
+      "gestion des risques qualité",
+      "traçabilité",
+      "fabrication",
+      "assurance qualité",
+      "contrôle qualité",
+      "validation des procédés",
+      "documentation qualité",
+      "investigation des déviations",
+      "audit interne",
+      "conformité réglementaire",
+      "inspection des autorités",
+      "sécurité et efficacité des MTI"
+    ],
+    "Sections": [
+      {
+        "Titre": "Introduction",
+        "Page": 159,
+        "mots_cles": [
+          "médicaments de thérapie innovante",
+          "MTI",
+          "bonnes pratiques de fabrication",
+          "variabilité des MTI",
+          "culture cellulaire",
+          "produits autologues",
+          "produits allogéniques",
+          "fabrication hospitalière",
+          "sécurité des MTI",
+          "développement pharmaceutique"
+        ]
+      },
+      {
+        "Titre": "Approche Fondée sur le Risque",
+        "Page": 163,
+        "mots_cles": [
+          "approche fondée sur le risque",
+          "sécurité des patients",
+          "contrôle qualité",
+          "validation du procédé",
+          "inspection réglementaire",
+          "qualification des équipements",
+          "produits autologues",
+          "durée de conservation des MTI"
+        ]
+      },
+      {
+        "Titre": "Personnel",
+        "Page": 170,
+        "mots_cles": [
+          "fabricant de MTI",
+          "qualification des opérateurs",
+          "contrôle qualité",
+          "hygiène",
+          "équipement de protection",
+          "formation aseptique",
+          "zones d'atmosphère contrôlée",
+          "contamination croisée",
+          "responsable de production",
+          "audit interne"
+        ]
+      },
+      {
+        "Titre": "Locaux",
+        "Page": 174,
+        "mots_cles": [
+          "locaux de fabrication",
+          "contamination croisée",
+          "zones de production",
+          "qualifications des locaux",
+          "séparation des zones",
+          "nettoyage et désinfection",
+          "ventilation et filtration",
+          "fabrication de vecteurs viraux",
+          "zones de quarantaine",
+          "surveillance microbiologique"
+        ]
+      },
+      {
+        "Titre": "Équipements",
+        "Page": 184,
+        "mots_cles": [
+          "équipements de production",
+          "maintenance",
+          "qualification",
+          "matériel de mesure",
+          "gestion des contaminations",
+          "intégrité des données",
+          "procédures de décontamination",
+          "contrôle d’intégrité",
+          "traçabilité des équipements",
+          "normes de fabrication"
+        ]
+      },
+      {
+        "Titre": "Documentation",
+        "Page": 186,
+        "mots_cles": [
+          "documentation BPF",
+          "assurance qualité",
+          "traçabilité des MTI",
+          "gestion des versions",
+          "procédures de fabrication",
+          "validation et qualification",
+          "spécifications des produits",
+          "suivi de stabilité",
+          "audit et inspection des données"
+        ]
+      },
+      {
+        "Titre": "Matières Premières",
+        "Page": 194,
+        "mots_cles": [
+          "matières premières MTI",
+          "qualification des fournisseurs",
+          "traçabilité",
+          "sécurité virale",
+          "certificat d'analyse",
+          "matières premières biologiques",
+          "exigences de stockage",
+          "documentation des contrôles"
+        ]
+      },
+      {
+        "Titre": "Lots de Semences et Banque de Cellules",
+        "Page": 200,
+        "mots_cles": [
+          "lots de semences",
+          "banques de cellules",
+          "contrôle de sécurité",
+          "traçabilité",
+          "caractérisation",
+          "stockage cryogénique",
+          "analyse des risques",
+          "validation des contrôles"
+        ]
+      },
+      {
+        "Titre": "Production",
+        "Page": 203,
+        "mots_cles": [
+          "production MTI",
+          "procédé de fabrication",
+          "contrôle qualité",
+          "prévention contamination croisée",
+          "fabrication aseptique",
+          "validation des filtres",
+          "sécurisation des fermetures"
+        ]
+      },
+      {
+        "Titre": "Qualification et Validation",
+        "Page": 215,
+        "mots_cles": [
+          "qualification des locaux",
+          "validation des procédés",
+          "ISO 14644",
+          "qualification opérationnelle",
+          "validation du nettoyage",
+          "validation des procédés aseptiques"
+        ]
+      },
+      {
+        "Titre": "Personne Qualifiée et Libération des Lots",
+        "Page": 223,
+        "mots_cles": [
+          "Personne qualifiée",
+          "libération des lots",
+          "certification",
+          "supervision de la fabrication",
+          "évaluation des risques",
+          "documentation et traçabilité"
+        ]
+      },
+      {
+        "Titre": "Contrôle de la Qualité",
+        "Page": 231,
+        "mots_cles": [
+          "Contrôle de la qualité",
+          "spécifications produit",
+          "échantillonnage",
+          "méthodes analytiques",
+          "programme de stabilité",
+          "analyse microbiologique"
+        ]
+      },
+      {
+        "Titre": "Activités Externalisées",
+        "Page": 237,
+        "mots_cles": [
+          "Activités externalisées",
+          "sous-traitance",
+          "audit qualité",
+          "certification des lots",
+          "gestion des réclamations",
+          "traçabilité"
+        ]
+      },
+      {
+        "Titre": "Défauts Qualité et Rappels",
+        "Page": 238,
+        "mots_cles": [
+          "Défauts qualité",
+          "gestion des non-conformités",
+          "investigation des déviations",
+          "notification aux autorités",
+          "gestion des rappels",
+          "sécurité des patients"
+        ]
+      },
+      {
+        "Titre": "Mesures de Contrôle des OGM",
+        "Page": 241,
+        "mots_cles": [
+          "MTI composés d’OGM",
+          "contrôle environnemental",
+          "risque de dissémination",
+          "confinement biologique",
+          "notification des autorités"
+        ]
+      },
+      {
+        "Titre": "Reconstitution du Produit",
+        "Page": 242,
+        "mots_cles": [
+          "reconstitution des MTI",
+          "décongélation",
+          "filtration",
+          "dilution",
+          "validation du procédé"
+        ]
+      },
+      {
+        "Titre": "Production Automatisée",
+        "Page": 244,
+        "mots_cles": [
+          "production automatisée",
+          "qualification des équipements",
+          "systèmes fermés",
+          "contrôle en cours de procédé",
+          "traçabilité"
+        ]
+      },
+      {
+        "Titre": "Glossaire",
+        "Page": 247,
+        "mots_cles": [
+          "médicament de thérapie innovante",
+          "banque de cellules",
+          "qualification des équipements",
+          "procédé aseptique",
+          "dossier de spécifications du produit",
+          "matières premières",
+          "système clos"
+        ]
+      }
+    ]
+  }
+}

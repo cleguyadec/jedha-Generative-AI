@@ -1,0 +1,288 @@
+{
+  "Partie II": {
+    "Titre": "Bonnes Pratiques de Fabrication pour les Substances Actives Utilisées comme Matières Premières dans les Médicaments",
+    "Sections": [
+      {
+        "Titre": "Introduction",
+        "Page": 60,
+        "mots_cles": [
+          "gestion de la qualité",
+          "bonnes pratiques de fabrication (BPF)",
+          "substances actives",
+          "management de la qualité",
+          "qualité",
+          "pureté",
+          "fabrication",
+          "réception des matières",
+          "production",
+          "conditionnement",
+          "reconditionnement",
+          "étiquetage",
+          "réétiquetage",
+          "contrôle de la qualité",
+          "libération",
+          "stockage",
+          "distribution",
+          "contrôles associés",
+          "recommandations",
+          "lignes directrices particulières",
+          "assurance qualité",
+          "sécurité du personnel",
+          "protection de l'environnement"
+        ]
+      },
+      {
+        "Titre": "Management de la Qualité",
+        "Page": 63,
+        "mots_cles": [
+          "gestion de la qualité",
+          "management de la qualité",
+          "bonnes pratiques de fabrication",
+          "substances actives",
+          "responsabilité",
+          "système de gestion de la qualité",
+          "structure organisationnelle",
+          "procédures",
+          "procédés",
+          "ressources",
+          "activités de qualité",
+          "unité qualité",
+          "assurance de la qualité",
+          "contrôle de la qualité",
+          "libération des intermédiaires",
+          "libération des substances actives"
+        ]
+      },
+      {
+        "Titre": "Personnel",
+        "Page": 66,
+        "mots_cles": [
+          "gestion de la qualité",
+          "personnel",
+          "qualification du personnel",
+          "fabrication des intermédiaires",
+          "fabrication des substances actives",
+          "formation initiale",
+          "formation complémentaire",
+          "expérience",
+          "responsabilités",
+          "enregistrements de formation",
+          "hygiène du personnel"
+        ]
+      },
+      {
+        "Titre": "Bâtiments et Installations",
+        "Page": 67,
+        "mots_cles": [
+          "gestion de la qualité",
+          "bâtiments et installations",
+          "fabrication des substances actives",
+          "fabrication des intermédiaires",
+          "conception et construction",
+          "nettoyage",
+          "maintenance",
+          "opérations associées",
+          "risques de contamination"
+        ]
+      },
+      {
+        "Titre": "Équipements de Fabrication",
+        "Page": 70,
+        "mots_cles": [
+          "gestion de la qualité",
+          "équipements de fabrication",
+          "fabrication des intermédiaires",
+          "fabrication des substances actives",
+          "conception et construction",
+          "nettoyage",
+          "décontamination",
+          "entretien",
+          "surfaces en contact",
+          "qualité"
+        ]
+      },
+      {
+        "Titre": "Documentation et Enregistrements",
+        "Page": 73,
+        "mots_cles": [
+          "gestion de la qualité",
+          "documentation et enregistrements",
+          "fabrication des intermédiaires",
+          "fabrication des substances actives",
+          "préparation des documents",
+          "vérification des documents",
+          "approbation des documents",
+          "distribution des documents",
+          "procédures écrites"
+        ]
+      },
+      {
+        "Titre": "Gestion des Matières",
+        "Page": 77,
+        "mots_cles": [
+          "gestion des matières",
+          "réception des matières",
+          "identification des matières",
+          "quarantaine des matières",
+          "stockage des matières",
+          "manutention des matières",
+          "échantillonnage des matières",
+          "contrôles des matières",
+          "approbation des matières"
+        ]
+      },
+      {
+        "Titre": "Production et Contrôles en Cours de Procédé",
+        "Page": 79,
+        "mots_cles": [
+          "gestion de la qualité",
+          "production des intermédiaires",
+          "production des substances actives",
+          "opérations de production",
+          "pesée des matières premières",
+          "mesure des matières premières",
+          "conditions appropriées"
+        ]
+      },
+      {
+        "Titre": "Conditionnement et Étiquetage",
+        "Page": 82,
+        "mots_cles": [
+          "gestion de la qualité",
+          "conditionnement et étiquetage",
+          "substances actives",
+          "intermédiaires",
+          "procédures écrites",
+          "réception des articles de conditionnement et d’étiquetage"
+        ]
+      },
+      {
+        "Titre": "Stockage et Distribution",
+        "Page": 84,
+        "mots_cles": [
+          "gestion de la qualité",
+          "stockage",
+          "distribution",
+          "substances actives",
+          "intermédiaires",
+          "locaux d’entreposage",
+          "conditions de stockage",
+          "température",
+          "humidité"
+        ]
+      },
+      {
+        "Titre": "Contrôles en Laboratoire",
+        "Page": 85,
+        "mots_cles": [
+          "gestion de la qualité",
+          "contrôles en laboratoire",
+          "substances actives",
+          "intermédiaires",
+          "installations de laboratoire",
+          "procédures documentées",
+          "échantillonnage"
+        ]
+      },
+      {
+        "Titre": "Validation",
+        "Page": 88,
+        "mots_cles": [
+          "gestion de la qualité",
+          "validation",
+          "politique de validation",
+          "validation des procédés de production",
+          "validation des méthodes de nettoyage",
+          "validation des méthodes analytiques"
+        ]
+      },
+      {
+        "Titre": "Maîtrise des Modifications",
+        "Page": 92,
+        "mots_cles": [
+          "gestion de la qualité",
+          "maîtrise des modifications",
+          "système de maîtrise des modifications",
+          "production et contrôle des intermédiaires",
+          "production et contrôle des substances actives"
+        ]
+      },
+      {
+        "Titre": "Refus et Réutilisation des Matières",
+        "Page": 93,
+        "mots_cles": [
+          "gestion de la qualité",
+          "refus et réutilisation des matières",
+          "intermédiaires",
+          "substances actives",
+          "non conformes aux spécifications"
+        ]
+      },
+      {
+        "Titre": "Réclamations et Rappels",
+        "Page": 95,
+        "mots_cles": [
+          "gestion de la qualité",
+          "réclamations",
+          "rappels",
+          "intermédiaires",
+          "substances actives",
+          "enregistrements des réclamations"
+        ]
+      },
+      {
+        "Titre": "Fabricants sous Contrat",
+        "Page": 96,
+        "mots_cles": [
+          "gestion de la qualité",
+          "fabricants sous contrat",
+          "laboratoires",
+          "bonnes pratiques de fabrication (BPF)"
+        ]
+      },
+      {
+        "Titre": "Agents, Courtiers, Négociants",
+        "Page": 97,
+        "mots_cles": [
+          "gestion de la qualité",
+          "agents",
+          "courtiers",
+          "négociants",
+          "distributeurs",
+          "reconditionneurs",
+          "réétiqueteurs"
+        ]
+      },
+      {
+        "Titre": "Substances Actives fabriquées par Culture Cellulaire/Fermentation",
+        "Page": 99,
+        "mots_cles": [
+          "gestion de la qualité",
+          "substances actives fabriquées par culture cellulaire ou fermentation",
+          "procédés biotechnologiques",
+          "fermentation classique"
+        ]
+      },
+      {
+        "Titre": "Substances Actives utilisées en Essais Cliniques",
+        "Page": 102,
+        "mots_cles": [
+          "gestion de la qualité",
+          "substances actives utilisées en essais cliniques",
+          "fabrication d'une nouvelle substance active",
+          "phase de développement"
+        ]
+      },
+      {
+        "Titre": "Glossaire",
+        "Page": 104,
+        "mots_cles": [
+          "gestion de la qualité",
+          "glossaire des termes",
+          "adjuvants de procédé",
+          "article de conditionnement"
+        ]
+      }
+    ]
+  }
+}

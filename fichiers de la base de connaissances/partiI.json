@@ -1,0 +1,259 @@
+{
+  "Partie I": {
+    "Titre": "Bonnes Pratiques de Fabrication des Médicaments à Usage Humain",
+    "Chapitres": [
+      {
+        "Titre": "Préambule",
+        "Page": 9,
+        "mots_cles": [
+          "gestion de la qualité",
+          "bonnes pratiques de fabrication",
+          "risque qualité",
+          "autorisation de fabrication",
+          "autorisation de mise sur le marché",
+          "sécurité",
+          "traçabilité",
+          "audit",
+          "processus qualité",
+          "directives",
+          "principes des BPF",
+          "lignes directrices",
+          "contrôle",
+          "production"
+        ]
+      },
+      {
+        "Titre": "Introduction",
+        "Page": 10,
+        "mots_cles": [
+          "gestion de la qualité",
+          "bonnes pratiques de fabrication",
+          "risque qualité",
+          "autorisation de fabrication",
+          "autorisation de mise sur le marché",
+          "sécurité",
+          "traçabilité",
+          "audit",
+          "processus qualité",
+          "directives",
+          "principes des BPF",
+          "lignes directrices",
+          "contrôle",
+          "production"
+        ]
+      },
+      {
+        "Titre": "Système Qualité Pharmaceutique",
+        "Page": 12,
+        "mots_cles": [
+          "gestion de la qualité",
+          "bonnes pratiques de fabrication",
+          "risque qualité",
+          "traçabilité",
+          "audit",
+          "processus qualité",
+          "système qualité pharmaceutique",
+          "autorisation de fabrication",
+          "autorisation de mise sur le marché",
+          "sécurité",
+          "contrôle",
+          "production",
+          "qualification",
+          "validation",
+          "amélioration continue",
+          "fabrication",
+          "distribution",
+          "rappel",
+          "déviations",
+          "actions correctives et préventives (CAPA)",
+          "personne qualifiée",
+          "revue qualité des produits",
+          "système d’autorisation",
+          "inspections régulières",
+          "directives",
+          "lignes directrices",
+          "évaluation",
+          "conformité",
+          "exigences",
+          "système informatisé",
+          "échantillonnage",
+          "surveillance",
+          "documentation",
+          "locaux",
+          "matériels",
+          "installations",
+          "fournisseurs",
+          "distributeurs",
+          "gestion du risque",
+          "système qualité",
+          "efficacité",
+          "connaissance du produit",
+          "connaissance du procédé",
+          "développement pharmaceutique",
+          "technologie de fabrication",
+          "innovation",
+          "système de gestion de la qualité",
+          "responsabilités de la direction",
+          "engagement du personnel",
+          "principes actifs pharmaceutiques",
+          "chaîne d’approvisionnement",
+          "activités externalisées",
+          "libération des lots",
+          "investigation des déviations",
+          "erreurs humaines",
+          "actions correctives",
+          "actions préventives",
+          "évaluation prospective",
+          "évaluation rétrospective",
+          "stabilité du produit",
+          "retraits",
+          "réclamations",
+          "revue périodique",
+          "revue continue",
+          "répétabilité des procédés",
+          "pertinence des spécifications",
+          "évaluation des changements",
+          "validation des méthodes de contrôle",
+          "relevés d’enregistrement",
+          "échantillons de référence",
+          "défauts potentiels",
+          "auto-inspection",
+          "analyse des causes principales",
+          "gestion de la chaîne de production",
+          "libération paramétrique",
+          "principes de gestion du risque",
+          "manuel qualité",
+          "établissement de santé",
+          "essais cliniques",
+          "établissement de fabrication"
+        ]
+      },
+      {
+        "Titre": "Personnel",
+        "Page": 18,
+        "mots_cles": [
+          "gestion de la qualité",
+          "bonnes pratiques de fabrication",
+          "qualité de la fabrication",
+          "personnel qualifié",
+          "formation initiale",
+          "formation continue",
+          "responsabilités individuelles",
+          "hygiène",
+          "système de gestion de la qualité",
+          "autorisation de mise sur le marché",
+          "exigences de qualité",
+          "système qualité pharmaceutique",
+          "contrôle de la qualité",
+          "assurance de la qualité"
+        ]
+      },
+      {
+        "Titre": "Locaux et Matériel",
+        "Page": 23,
+        "mots_cles": [
+          "gestion de la qualité",
+          "bonnes pratiques de fabrication",
+          "locaux",
+          "matériel",
+          "conception",
+          "construction",
+          "entretien",
+          "risque d'erreurs",
+          "nettoyage",
+          "contaminations",
+          "contaminations croisées"
+        ]
+      },
+      {
+        "Titre": "Documentation",
+        "Page": 27,
+        "mots_cles": [
+          "gestion de la qualité",
+          "bonnes pratiques de fabrication",
+          "documentation",
+          "assurance de la qualité",
+          "conformité",
+          "instructions",
+          "enregistrements",
+          "rapports",
+          "système documentaire"
+        ]
+      },
+      {
+        "Titre": "Production",
+        "Page": 35,
+        "mots_cles": [
+          "gestion de la qualité",
+          "bonnes pratiques de fabrication",
+          "opérations de production",
+          "procédures",
+          "conformité",
+          "autorisations de fabrication",
+          "autorisations de mise sur le marché",
+          "surveillance",
+          "personnes compétentes"
+        ]
+      },
+      {
+        "Titre": "Contrôle de la Qualité",
+        "Page": 45,
+        "mots_cles": [
+          "gestion de la qualité",
+          "bonnes pratiques de fabrication",
+          "contrôle de la qualité",
+          "échantillonnage",
+          "spécifications",
+          "analyse",
+          "organisation",
+          "documents",
+          "procédures de libération"
+        ]
+      },
+      {
+        "Titre": "Activités Externalisées",
+        "Page": 51,
+        "mots_cles": [
+          "gestion de la qualité",
+          "bonnes pratiques de fabrication",
+          "externalisation",
+          "sous-traitance",
+          "contrat écrit",
+          "donneur d’ordre",
+          "sous-traitant",
+          "système de gestion de la qualité",
+          "responsabilité"
+        ]
+      },
+      {
+        "Titre": "Réclamations, Défauts Qualité et Rappels de Médicaments",
+        "Page": 53,
+        "mots_cles": [
+          "gestion de la qualité",
+          "bonnes pratiques de fabrication",
+          "système de gestion de la qualité",
+          "réclamations",
+          "santé publique",
+          "défaut qualité",
+          "rappels de médicaments",
+          "actions correctives et préventives (CAPA)"
+        ]
+      },
+      {
+        "Titre": "Auto-Inspection",
+        "Page": 58,
+        "mots_cles": [
+          "gestion de la qualité",
+          "assurance de la qualité",
+          "auto-inspection",
+          "bonnes pratiques de fabrication",
+          "mesures correctives",
+          "comptes rendus",
+          "personnel",
+          "locaux",
+          "matériel"
+        ]
+      }
+    ]
+  }
+}
