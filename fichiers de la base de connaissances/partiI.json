@@ -5,254 +5,57 @@
       {
         "Titre": "Préambule",
         "Page": 9,
-        "mots_cles": [
-          "gestion de la qualité",
-          "bonnes pratiques de fabrication",
-          "risque qualité",
-          "autorisation de fabrication",
-          "autorisation de mise sur le marché",
-          "sécurité",
-          "traçabilité",
-          "audit",
-          "processus qualité",
-          "directives",
-          "principes des BPF",
-          "lignes directrices",
-          "contrôle",
-          "production"
-        ]
+		"mots_cles": ["gestion de la qualité", "bonnes pratiques de fabrication", "risque qualité", "autorisation de fabrication", "autorisation de mise sur le marché", "sécurité", "traçabilité", "audit", "processus qualité", "directives", "principes des BPF", "lignes directrices", "contrôle", "production"]
       },
       {
         "Titre": "Introduction",
         "Page": 10,
-        "mots_cles": [
-          "gestion de la qualité",
-          "bonnes pratiques de fabrication",
-          "risque qualité",
-          "autorisation de fabrication",
-          "autorisation de mise sur le marché",
-          "sécurité",
-          "traçabilité",
-          "audit",
-          "processus qualité",
-          "directives",
-          "principes des BPF",
-          "lignes directrices",
-          "contrôle",
-          "production"
-        ]
+        "mots_cles": ["gestion de la qualité", "bonnes pratiques de fabrication", "risque qualité", "autorisation de fabrication", "autorisation de mise sur le marché", "sécurité", "traçabilité", "audit", "processus qualité", "directives", "principes des BPF", "lignes directrices", "contrôle", "production"]
       },
       {
         "Titre": "Système Qualité Pharmaceutique",
         "Page": 12,
-        "mots_cles": [
-          "gestion de la qualité",
-          "bonnes pratiques de fabrication",
-          "risque qualité",
-          "traçabilité",
-          "audit",
-          "processus qualité",
-          "système qualité pharmaceutique",
-          "autorisation de fabrication",
-          "autorisation de mise sur le marché",
-          "sécurité",
-          "contrôle",
-          "production",
-          "qualification",
-          "validation",
-          "amélioration continue",
-          "fabrication",
-          "distribution",
-          "rappel",
-          "déviations",
-          "actions correctives et préventives (CAPA)",
-          "personne qualifiée",
-          "revue qualité des produits",
-          "système d’autorisation",
-          "inspections régulières",
-          "directives",
-          "lignes directrices",
-          "évaluation",
-          "conformité",
-          "exigences",
-          "système informatisé",
-          "échantillonnage",
-          "surveillance",
-          "documentation",
-          "locaux",
-          "matériels",
-          "installations",
-          "fournisseurs",
-          "distributeurs",
-          "gestion du risque",
-          "système qualité",
-          "efficacité",
-          "connaissance du produit",
-          "connaissance du procédé",
-          "développement pharmaceutique",
-          "technologie de fabrication",
-          "innovation",
-          "système de gestion de la qualité",
-          "responsabilités de la direction",
-          "engagement du personnel",
-          "principes actifs pharmaceutiques",
-          "chaîne d’approvisionnement",
-          "activités externalisées",
-          "libération des lots",
-          "investigation des déviations",
-          "erreurs humaines",
-          "actions correctives",
-          "actions préventives",
-          "évaluation prospective",
-          "évaluation rétrospective",
-          "stabilité du produit",
-          "retraits",
-          "réclamations",
-          "revue périodique",
-          "revue continue",
-          "répétabilité des procédés",
-          "pertinence des spécifications",
-          "évaluation des changements",
-          "validation des méthodes de contrôle",
-          "relevés d’enregistrement",
-          "échantillons de référence",
-          "défauts potentiels",
-          "auto-inspection",
-          "analyse des causes principales",
-          "gestion de la chaîne de production",
-          "libération paramétrique",
-          "principes de gestion du risque",
-          "manuel qualité",
-          "établissement de santé",
-          "essais cliniques",
-          "établissement de fabrication"
-        ]
+        "mots_cles": ["gestion de la qualité", "bonnes pratiques de fabrication", "risque qualité", "traçabilité", "audit", "processus qualité", "système qualité pharmaceutique", "autorisation de fabrication", "autorisation de mise sur le marché", "sécurité", "contrôle", "production", "qualification", "validation", "amélioration continue", "fabrication", "distribution", "rappel", "déviations", "actions correctives et préventives (CAPA)", "personne qualifiée", "revue qualité des produits", "système d’autorisation", "inspections régulières", "directives", "lignes directrices", "évaluation", "conformité", "exigences", "système informatisé", "échantillonnage", "surveillance", "documentation", "locaux", "matériels", "installations", "fournisseurs", "distributeurs", "gestion du risque", "système qualité", "efficacité", "connaissance du produit", "connaissance du procédé", "développement pharmaceutique", "technologie de fabrication", "innovation", "système de gestion de la qualité", "responsabilités de la direction", "engagement du personnel", "principes actifs pharmaceutiques", "chaîne d’approvisionnement", "activités externalisées", "libération des lots", "investigation des déviations", "erreurs humaines", "actions correctives", "actions préventives", "évaluation prospective", "évaluation rétrospective", "stabilité du produit", "retraits", "réclamations", "revue périodique", "revue continue", "répétabilité des procédés", "pertinence des spécifications", "évaluation des changements", "validation des méthodes de contrôle", "relevés d’enregistrement", "échantillons de référence", "défauts potentiels", "auto-inspection", "analyse des causes principales", "gestion de la chaîne de production", "libération paramétrique", "principes de gestion du risque", "manuel qualité", "établissement de santé", "essais cliniques", "établissement de fabrication"]
       },
       {
         "Titre": "Personnel",
         "Page": 18,
-        "mots_cles": [
-          "gestion de la qualité",
-          "bonnes pratiques de fabrication",
-          "qualité de la fabrication",
-          "personnel qualifié",
-          "formation initiale",
-          "formation continue",
-          "responsabilités individuelles",
-          "hygiène",
-          "système de gestion de la qualité",
-          "autorisation de mise sur le marché",
-          "exigences de qualité",
-          "système qualité pharmaceutique",
-          "contrôle de la qualité",
-          "assurance de la qualité"
-        ]
+        "mots_cles": ["gestion de la qualité", "bonnes pratiques de fabrication", "qualité de la fabrication", "personnel qualifié", "formation initiale", "formation continue", "responsabilités individuelles", "hygiène", "système de gestion de la qualité", "autorisation de mise sur le marché", "exigences de qualité", "système qualité pharmaceutique", "contrôle de la qualité", "assurance de la qualité", "politique qualité", "organigramme", "dossiers de lot", "instructions de fabrication", "spécifications", "méthodes d'analyse", "sous-traitants analytiques", "validations", "entretien des équipements", "qualification des équipements", "agrément des fournisseurs", "archivage des dossiers", "examens d'enquête", "revues de direction", "communication des problèmes de qualité", "hygiène personnelle", "vêtements protecteurs", "zones de fabrication", "zones de stockage", "zones de contrôle", "instructions de santé", "visite médicale", "maladie infectieuse", "consultants", "enregistrements de formation", "audit", "processus qualité", "traçabilité", "amélioration continue", "produits stériles", "produits hautement actifs", "produits toxiques", "produits sensibilisants", "programmes de formation", "programmes d'hygiène", "surveillance des produits", "surveillance des procédés", "maintenance du système qualité", "certification des lots", "déléguer les responsabilités", "définir les rôles"]
       },
       {
         "Titre": "Locaux et Matériel",
         "Page": 23,
-        "mots_cles": [
-          "gestion de la qualité",
-          "bonnes pratiques de fabrication",
-          "locaux",
-          "matériel",
-          "conception",
-          "construction",
-          "entretien",
-          "risque d'erreurs",
-          "nettoyage",
-          "contaminations",
-          "contaminations croisées"
-        ]
+        "mots_cles": ["gestion de la qualité", "bonnes pratiques de fabrication", "locaux", "matériel", "conception", "construction", "entretien", "risque d'erreurs", "nettoyage", "contaminations", "contaminations croisées", "dépôt de poussières", "saletés", "qualité des produits", "environnement", "protection de la fabrication", "maintenance des équipements", "éclairage", "température", "humidité", "ventilation", "entrée d'insectes", "personnes non autorisées", "zones de production", "zones de stockage", "zones de contrôle de la qualité", "prévention de la contamination croisée", "principes de gestion du risque qualité", "locaux dédiés", "équipements dédiés", "fabrication de médicaments", "conditionnement", "conception des installations", "ordre logique des opérations", "niveaux de propreté", "rangement du matériel", "confusion entre médicaments", "surfaces intérieures", "nettoyage efficace", "désinfection", "canalisations", "appareils d'éclairage", "conduites de ventilation", "siphons anti-retour", "ventilation des zones de production", "salles de pesées", "libération de poussière", "locaux de conditionnement", "contrôles visuels", "contrôles en cours de fabrication", "zones de stockage", "stockage ordonné", "conditions de stockage", "zones de réception", "zones de distribution", "quarantaine", "prélèvement des échantillons", "produits refusés", "produits rappelés", "produits retournés", "articles de conditionnement imprimés", "laboratoires de contrôle", "séparation des laboratoires", "confusions", "contaminations croisées", "stockage des échantillons", "stockage des dossiers", "appareils sensibles", "substances particulières", "produits biologiques", "produits radioactifs", "zones annexes", "zones de repos", "zones de restaurations", "vestiaires", "sanitaires", "ateliers d'entretien", "animaleries", "matériel de fabrication", "installation du matériel", "réparation", "nettoyage du matériel", "matériel de lavage", "matériel de nettoyage", "risque de contamination", "surfaces en contact avec les produits", "impuretés", "balances", "matériel de mesure", "étalonnage", "vérification", "canalisations fixes", "étiquetage", "canalisations d'eau", "désinfection des canalisations", "matériel défectueux", "risque pour les produits"]
       },
       {
         "Titre": "Documentation",
         "Page": 27,
-        "mots_cles": [
-          "gestion de la qualité",
-          "bonnes pratiques de fabrication",
-          "documentation",
-          "assurance de la qualité",
-          "conformité",
-          "instructions",
-          "enregistrements",
-          "rapports",
-          "système documentaire"
-        ]
+        "mots_cles": ["gestion de la qualité", "bonnes pratiques de fabrication", "documentation", "assurance de la qualité", "conformité", "instructions", "enregistrements", "rapports", "système documentaire", "exigences BPF", "spécifications", "formules de fabrication", "procédures", "instructions de fabrication", "instructions de conditionnement", "dossier de fabrication de lot", "dossier de conditionnement du lot", "réception", "échantillonnage", "contrôle", "validations", "qualifications", "archivage", "traçabilité", "politiques documentaires", "procédures documentaires", "protocoles", "rapports", "équipements de fabrication", "équipements de contrôle", "locaux de production", "cahier de route", "documents de gestion de la qualité", "update des procédures", "archivage des documents", "surveillance de l'environnement", "lutte contre les nuisibles", "réclamations", "rappels", "retours", "maîtrise des changements", "investigations des déviations", "investigations des non conformités", "audits qualité interne", "audits de conformité aux BPF", "résumés de données", "audits des fournisseurs", "système d'assurance de la qualité", "système de gestion de la qualité", "archivage des enregistrements", "formats de documents", "procédures écrites", "enregistrements de formation", "liste des signatures", "formation aux BPF", "habillement", "hygiène", "vérification de l'efficacité de la formation", "enregistrements des actions", "enregistrements des conclusions", "certification du produit fini", "observations particulières", "modification de données critiques", "distribution de chaque lot", "rappel de lot", "procédures de réception", "étiquetage interne", "quarantaine", "stockage des matières premières", "stockage des articles de conditionnement", "procédures d'échantillonnage", "procédures de contrôle", "procédures d'acceptation", "procédures de refus", "transferts de technologie", "entretien", "nettoyage", "désinfection"]
       },
       {
         "Titre": "Production",
         "Page": 35,
-        "mots_cles": [
-          "gestion de la qualité",
-          "bonnes pratiques de fabrication",
-          "opérations de production",
-          "procédures",
-          "conformité",
-          "autorisations de fabrication",
-          "autorisations de mise sur le marché",
-          "surveillance",
-          "personnes compétentes"
-        ]
+        "mots_cles": ["gestion de la qualité", "bonnes pratiques de fabrication", "opérations de production", "procédures", "conformité", "autorisations de fabrication", "autorisations de mise sur le marché", "surveillance", "personnes compétentes", "manutention des produits", "réception", "quarantaine", "échantillonnage", "stockage", "étiquetage", "fourniture aux ateliers", "conditionnement", "distribution", "contrôle de la qualité", "réception des matières premières", "réception des produits finis", "produits en quarantaine", "produits intermédiaires", "produits vrac", "produits récupérés", "produits retournés", "produits refusés", "produits finis", "produits conditionnés", "articles de conditionnement", "articles de conditionnement imprimés", "étiquettes", "surimpressions", "vérification des étiquettes", "contrôles en cours de fabrication", "contrôles de l’environnement", "contrôles de ligne", "contrôles supplémentaires", "bilan comparatif", "lots", "numéro de lot", "quantité de produit", "déviations", "enquêtes", "audits", "validation", "études de validation", "procédés de fabrication", "procédés de nettoyage", "procédés de contrôle", "procédés de nettoyage validés", "procédés de conditionnement", "séparation physique", "contamination croisée", "contamination microbienne", "contamination par poussières", "contamination par gaz", "contamination par vapeurs", "contamination par aérosols", "contamination par résidus", "contamination par organismes génétiques", "contamination par recirculation d’air", "contamination par transfert mécanique", "contamination aéroportée", "contamination par matériel", "contamination par vêtements des opérateurs", "contamination par distribution", "contamination par livraison", "contamination par stockage", "contamination par transport", "contamination par manipulation", "contamination par étiquetage", "gestion du risque qualité", "évaluation du risque qualité", "contrôle du risque qualité", "résidus de fabrication", "rendements de fabrication", "bilan comparatif des rendements", "déchets", "eau de rinçage contaminée", "vêtements souillés", "vérification de l’efficacité de la formation", "système de gestion de la qualité", "système de qualité pharmaceutique", "qualification des fournisseurs", "qualification des substances actives", "qualification des excipients", "qualification des articles de conditionnement", "qualification des équipements", "qualification des locaux", "qualification des procédés", "qualification des procédures", "qualification des fournisseurs", "qualification des matières premières", "approbation des fournisseurs", "approbation des substances actives", "approbation des excipients", "approbation des articles de conditionnement", "approbation des équipements", "approbation des locaux", "approbation des procédés", "approbation des procédures", "approbation des formules de fabrication", "approbation des méthodes de contrôle", "approbation des certificats d’analyse", "approbation des résultats de contrôle", "approbation des lots de produits", "approbation des modifications des procédés", "approbation des modifications des équipements", "approbation des modifications des procédures", "approbation des modifications des formules", "approbation des modifications des méthodes de contrôle", "documentation", "enregistrements", "instructions écrites", "procédures écrites", "spécifications", "formules de fabrication", "instructions de fabrication", "instructions de conditionnement", "dossier de fabrication de lot", "dossier de conditionnement de lot", "certificats d’analyse", "rapports", "réclamations", "rappels", "retours", "maîtrise des changements", "investigations des déviations", "investigations des non conformités", "audits qualité interne", "audits de conformité aux BPF", "résumés de données", "audits des fournisseurs", "système d’assurance de la qualité", "système de gestion de la qualité", "archivage des documents", "archivage des enregistrements", "formats de documents", "procédures de réception", "étiquetage interne", "quarantaine", "stockage des matières premières", "stockage des articles de conditionnement", "procédures d’échantillonnage", "procédures de contrôle", "procédures d’acceptation", "procédures de refus", "procédures de retraitement", "procédures de récupération", "procédures de destruction", "procédures de remise en vente", "procédures de réexamen", "procédures de réintroduction", "procédures de notification", "procédures de distribution", "procédures de transport", "procédures de nettoyage", "procédures de désinfection", "procédures de maintenance", "procédures de manipulation des déchets", "procédures de manipulation des produits", "procédures de manipulation des substances actives", "procédures de manipulation des excipients", "procédures de manipulation des articles de conditionnement", "procédures de manipulation des équipements", "procédures de manipulation des locaux", "procédures de manipulation des procédés", "procédures de manipulation des procédures", "procédures de manipulation des formules", "procédures de manipulation des méthodes de contrôle", "procédures de manipulation des certificats d’analyse", "procédures de manipulation des résultats de contrôle", "procédures de manipulation des lots de produits", "procédures de manipulation des modifications des procédés", "procédures de manipulation des modifications des équipements", "procédures de manipulation des modifications des procédures", "procédures de manipulation des modifications des formules", "procédures de manipulation des modifications des méthodes de contrôle", "procédures de manipulation des audits", "procédures de manipulation des validations", "procédures de manipulation des qualifications", "procédures de manipulation des approbations", "procédures de manipulation des réclamations", "procédures de manipulation des rappels", "procédures de manipulation des retours", "procédures de manipulation des maîtrises des changements", "procédures de manipulation des investigations des déviations", "procédures de manipulation des investigations des non conformités", "procédures de manipulation des audits qualité interne", "procédures de manipulation des audits de conformité aux BPF", "procédures de manipulation des résumés de données", "procédures de manipulation des audits des fournisseurs", "procédures de manipulation du système d’assurance de la qualité", "procédures de manipulation du système de gestion de la qualité"]
       },
       {
         "Titre": "Contrôle de la Qualité",
         "Page": 45,
-        "mots_cles": [
-          "gestion de la qualité",
-          "bonnes pratiques de fabrication",
-          "contrôle de la qualité",
-          "échantillonnage",
-          "spécifications",
-          "analyse",
-          "organisation",
-          "documents",
-          "procédures de libération"
-        ]
+        "mots_cles": ["gestion de la qualité", "bonnes pratiques de fabrication", "contrôle de la qualité", "échantillonnage", "spécifications", "analyse", "organisation", "documents", "procédures de libération", "laboratoire de contrôle de la qualité", "indépendance", "titulaire d’une autorisation de fabrication", "département de contrôle de la qualité", "procédures écrites", "enregistrements", "évaluation des produits finis", "conditions de production", "contrôles en cours de fabrication", "documents de fabrication", "étiquetage", "stabilité des produits", "réclamations", "procédures de validation", "procédures de qualification", "procédures de maintenance", "investigations", "rapports de contrôle", "certificats d’analyse", "surveillance de l’environnement", "dossiers de validation", "méthodes d'analyse", "validations des méthodes de contrôle", "résultats d'analyse", "résultats hors spécifications", "résultats hors tendances", "cahiers de laboratoire", "enregistrements des contrôles", "dossier de lot", "substances de référence", "milieux de culture", "préparation des réactifs", "préparation des solutions titrées", "préparation des substances de référence", "programme de suivi de la stabilité", "stabilité des médicaments", "durée de validité", "conditions de stockage", "études de stabilité", "produits vrac", "produits intermédiaires", "produits finis", "produits reconstitués", "transfert technique des méthodes d'analyse", "protocole de transfert", "critères d'acceptation", "formation du personnel", "substances de référence", "échantillons à contrôler", "conditions de transport", "conditions de stockage", "déviations au protocole", "rapport de transfert technique", "validation supplémentaire des méthodes de contrôle", "exigences européennes", "spectrométrie proche infrarouge", "animaux de laboratoire", "quarantaine des animaux", "surveillance des animaux", "enregistrement des animaux", "identification des animaux", "historique de l'utilisation des animaux", "milieux microbiologiques", "décontamination des milieux microbiologiques", "élimination des milieux microbiologiques", "durée de conservation des milieux microbiologiques"]
       },
       {
         "Titre": "Activités Externalisées",
         "Page": 51,
-        "mots_cles": [
-          "gestion de la qualité",
-          "bonnes pratiques de fabrication",
-          "externalisation",
-          "sous-traitance",
-          "contrat écrit",
-          "donneur d’ordre",
-          "sous-traitant",
-          "système de gestion de la qualité",
-          "responsabilité"
-        ]
+        "mots_cles": ["gestion de la qualité", "bonnes pratiques de fabrication", "externalisation", "sous-traitance", "contrat écrit", "donneur d’ordre", "sous-traitant", "système de gestion de la qualité", "responsabilité", "personne qualifiée", "autorisation de mise sur le marché", "autorisation de fabrication", "contrôle des activités externalisées", "évaluation du sous-traitant", "surveillance du sous-traitant", "informations nécessaires", "risques associés", "amélioration nécessaire", "enregistrements", "conformité aux BPF", "production", "composants", "sous-traitance d’analyses", "inspection par les autorités compétentes", "locaux", "équipements", "connaissances", "expérience", "personnel compétent", "sous-traiter à un tiers", "évaluation préalable", "autorisation préalable", "modifications non autorisées", "communication", "enregistrements liés aux activités externalisées", "échantillons de référence", "fabrication", "analyse", "distribution", "réclamations", "défauts qualité", "suspicion de falsification", "rappels de médicaments", "actions correctives et préventives (CAPA)", "réduction des risques", "décisions de rappel", "dispositions contractuelles", "autorités compétentes", "avertissements", "professionnels de santé", "utilisation de lots potentiellement défectueux", "règlementations en vigueur", "contrôle de la qualité", "organisation des rappels", "mesures de réduction de risques", "documentation des réclamations", "investigations", "gestion des réclamations", "équipes pluridisciplinaires", "traitement des réclamations", "distribution des produits", "disponibilité des produits", "rapports de défaut qualité", "analyse des causes principales", "dossiers de distribution", "sites d'investigation", "évaluation de l'efficacité des rappels", "exercices de simulation", "rappels de lots", "remise sur le marché", "réduction des risques liés aux défauts qualité", "discussions avec les autorités compétentes", "retour des échantillons de produit", "investigation liée à un défaut qualité", "décisions de rappel", "rappels pour protéger la santé publique", "dossiers de fabrication", "dossiers de distribution", "décisions de rappel de produit", "décisions de mesure de réduction des risques", "décisions de ne pas procéder à une mesure de réduction des risques", "justification de décisions", "discussion avec l'autorité compétente", "décision de retraitement de produits rappelés", "sort des produits rappelés", "durée de conservation des lots retraités", "enregistrement du déroulement du rappel", "rapport final de rappel", "bilan comparatif des quantités distribuées et récupérées", "évaluation de l'efficacité des dispositions de rappel", "dispositions contractuelles relatives aux rappels", "contrats de sous-traitance", "conformité aux réglementations", "respect des BPF"]
       },
       {
         "Titre": "Réclamations, Défauts Qualité et Rappels de Médicaments",
         "Page": 53,
-        "mots_cles": [
-          "gestion de la qualité",
-          "bonnes pratiques de fabrication",
-          "système de gestion de la qualité",
-          "réclamations",
-          "santé publique",
-          "défaut qualité",
-          "rappels de médicaments",
-          "actions correctives et préventives (CAPA)"
-        ]
+        "mots_cles": ["gestion de la qualité", "bonnes pratiques de fabrication", "système de gestion de la qualité", "réclamations", "santé publique", "défaut qualité", "rappels de médicaments", "actions correctives et préventives (CAPA)", "mesures de réduction des risques", "externalisation", "sous-traitance", "contrat écrit", "donneur d’ordre", "sous-traitant", "responsabilité", "personne qualifiée", "autorisation de mise sur le marché", "autorisation de fabrication", "contrôle des activités externalisées", "évaluation du sous-traitant", "surveillance du sous-traitant", "informations nécessaires", "risques associés", "amélioration nécessaire", "conformité aux BPF", "production", "composants", "sous-traitance d’analyses", "inspection par les autorités compétentes", "locaux", "équipements", "connaissances", "expérience", "personnel compétent", "sous-traiter à un tiers", "évaluation préalable", "autorisation préalable", "modifications non autorisées", "communication", "enregistrements liés aux activités externalisées", "échantillons de référence", "fabrication", "analyse", "distribution", "réclamations", "défauts qualité", "suspicion de falsification", "rappels de médicaments", "actions correctives et préventives (CAPA)", "réduction des risques", "décisions de rappel", "dispositions contractuelles", "autorités compétentes", "avertissements", "professionnels de santé", "utilisation de lots potentiellement défectueux", "règlementations en vigueur", "contrôle de la qualité", "organisation des rappels", "mesures de réduction de risques", "documentation des réclamations", "investigations", "gestion des réclamations", "équipes pluridisciplinaires", "traitement des réclamations", "distribution des produits", "disponibilité des produits", "rapports de défaut qualité", "analyse des causes principales", "dossiers de distribution", "sites d'investigation", "évaluation de l'efficacité des rappels", "exercices de simulation", "rappels de lots", "remise sur le marché", "réduction des risques liés aux défauts qualité", "discussions avec les autorités compétentes", "retour des échantillons de produit", "investigation liée à un défaut qualité", "décisions de rappel", "rappels pour protéger la santé publique", "dossiers de fabrication", "dossiers de distribution", "décisions de rappel de produit", "décisions de mesure de réduction des risques", "décisions de ne pas procéder à une mesure de réduction des risques", "justification de décisions", "discussion avec l'autorité compétente", "décision de retraitement de produits rappelés", "sort des produits rappelés", "durée de conservation des lots retraités", "enregistrement du déroulement du rappel", "rapport final de rappel", "bilan comparatif des quantités distribuées et récupérées", "évaluation de l'efficacité des dispositions de rappel", "dispositions contractuelles relatives aux rappels", "contrats de sous-traitance", "conformité aux réglementations", "respect des BPF"]
       },
       {
         "Titre": "Auto-Inspection",
         "Page": 58,
-        "mots_cles": [
-          "gestion de la qualité",
-          "assurance de la qualité",
-          "auto-inspection",
-          "bonnes pratiques de fabrication",
-          "mesures correctives",
-          "comptes rendus",
-          "personnel",
-          "locaux",
-          "matériel"
-        ]
+        "mots_cles": ["gestion de la qualité", "assurance de la qualité", "auto-inspection", "bonnes pratiques de fabrication", "mesures correctives", "comptes rendus", "personnel", "locaux", "matériel", "documents", "production", "contrôle de la qualité", "distribution des médicaments", "réclamations", "rappels", "programme préétabli", "conformité", "audits indépendants", "experts externes", "observations", "propositions de mesures correctives", "rapports d’auto-inspection", "système d’assurance de la qualité"]
       }
     ]
   }

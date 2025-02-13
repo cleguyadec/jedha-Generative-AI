@@ -5,283 +5,103 @@
       {
         "Titre": "Introduction",
         "Page": 60,
-        "mots_cles": [
-          "gestion de la qualité",
-          "bonnes pratiques de fabrication (BPF)",
-          "substances actives",
-          "management de la qualité",
-          "qualité",
-          "pureté",
-          "fabrication",
-          "réception des matières",
-          "production",
-          "conditionnement",
-          "reconditionnement",
-          "étiquetage",
-          "réétiquetage",
-          "contrôle de la qualité",
-          "libération",
-          "stockage",
-          "distribution",
-          "contrôles associés",
-          "recommandations",
-          "lignes directrices particulières",
-          "assurance qualité",
-          "sécurité du personnel",
-          "protection de l'environnement"
-        ]
+        "mots_cles": ["gestion de la qualité", "bonnes pratiques de fabrication (BPF)", "substances actives", "management de la qualité", "qualité", "pureté", "fabrication", "réception des matières", "production", "conditionnement", "reconditionnement", "étiquetage", "réétiquetage", "contrôle de la qualité", "libération", "stockage", "distribution", "contrôles associés", "recommandations", "lignes directrices particulières", "assurance qualité", "sécurité du personnel", "protection de l'environnement", "enregistrement", "Pharmacopée", "autorité compétente", "exigences spécifiques", "autorisations de fabrication et de mise sur le marché", "engagements", "dossiers d'enregistrement", "substances actives stériles", "stérilisation", "procédés aseptiques", "directive 2003/94/CE", "partie I du guide européen des BPF", "annexe 1", "ectoparasiticides vétérinaires", "standards de qualité", "directive 2002/98/CE", "sang total", "plasma", "substances actives produites à partir de sang ou plasma", "médicaments en vrac", "matières premières actives", "dérogations", "annexes du guide des BPF", "annexes 2 et 7", "chapitre 17", "distribution des substances actives", "substances actives utilisées pour essais cliniques", "chapitre 19", "matière première de départ", "structure chimique", "propriétés chimiques", "procédés de synthèse", "fermentation", "extraction", "purification", "validation des étapes critiques", "impact sur la qualité", "traitements physiques", "granulation", "enrobage", "ajustement de la granulométrie", "broyage", "micronisation", "principe actif pharmaceutique", "glossaire", "traitements préliminaires", "banque de cellules souches", "banque de cellules de travail", "culture cellulaire", "fermentation classique", "exigences croissantes des BPF", "Conférence Internationale d'Harmonisation (ICH)", "guide ICH Q7a"]
       },
       {
         "Titre": "Management de la Qualité",
         "Page": 63,
-        "mots_cles": [
-          "gestion de la qualité",
-          "management de la qualité",
-          "bonnes pratiques de fabrication",
-          "substances actives",
-          "responsabilité",
-          "système de gestion de la qualité",
-          "structure organisationnelle",
-          "procédures",
-          "procédés",
-          "ressources",
-          "activités de qualité",
-          "unité qualité",
-          "assurance de la qualité",
-          "contrôle de la qualité",
-          "libération des intermédiaires",
-          "libération des substances actives"
-        ]
+        "mots_cles": ["gestion de la qualité", "management de la qualité", "bonnes pratiques de fabrication", "substances actives", "responsabilité", "système de gestion de la qualité", "structure organisationnelle", "procédures", "procédés", "ressources", "activités de qualité", "unité qualité", "assurance de la qualité", "contrôle de la qualité", "libération des intermédiaires", "libération des substances actives", "enregistrement des activités", "documentation des écarts", "enquête des écarts critiques", "évaluation complète des matières", "inspections réglementaires", "manquements aux BPF", "défauts du produit", "réclamations", "rappels", "mesures réglementaires", "gestion du risque qualité", "évaluation du risque", "communication du risque", "revue du risque", "connaissance scientifique", "expérience du procédé", "protection du patient", "responsabilités de l'unité qualité", "libération ou refus des substances actives", "libération ou refus des intermédiaires", "système de libération des matières premières", "revue des dossiers de production", "enregistrements du laboratoire de contrôle", "enquête des écarts critiques", "approbation des spécifications", "approbation des instructions de production", "approbation des procédures", "approbation des contrats de fabrication", "approbation des modifications", "approbation des protocoles et rapports de validation", "enquête des réclamations", "systèmes de maintenance", "systèmes d'étalonnage", "contrôle des matières", "enregistrement des résultats", "données de stabilité", "dates de recontrôle", "dates de péremption", "conditions de stockage", "revues de qualité produit", "conformité aux BPF", "audits internes", "planning des audits", "actions correctives", "contrôles en cours de procédé", "résultats des contrôles critiques", "lots non conformes", "écarts et non-conformités critiques", "modifications des procédés", "modifications des méthodes analytiques", "résultats des études de stabilité", "retours", "réclamations", "rappels", "efficacité des actions correctives", "documentation des revues de qualité", "documentation des actions correctives", "documentation des raisons des actions correctives", "mise en oeuvre des actions correctives", "procédures écrites", "instructions de production", "production des substances actives", "production des intermédiaires", "dossiers de production de lot", "écarts enregistrés", "écarts critiques", "enquête des écarts", "enregistrements des conclusions", "locaux propres", "locaux désinfectés", "étalonnages nécessaires", "enregistrements des étalonnages", "maintenance des locaux et équipements", "enregistrements de maintenance", "protocoles et rapports de validation", "revue et approbation des protocoles et rapports de validation", "évaluation des modifications", "qualification des locaux et équipements", "qualification des locaux et équipements nouveaux", "qualification des locaux et équipements modifiés", "audits internes réguliers", "conformité aux BPF", "résultats des audits", "actions correctives documentées", "actions correctives approuvées", "mise à terme des actions correctives", "revues de qualité des substances actives", "vérification de la régularité du procédé", "revues annuelles", "documentation des revues de qualité produit", "évaluation des résultats des revues", "estimation des actions correctives", "documentation des raisons des actions correctives", "mise en oeuvre opportune et efficace des actions correctives"]
       },
       {
         "Titre": "Personnel",
         "Page": 66,
-        "mots_cles": [
-          "gestion de la qualité",
-          "personnel",
-          "qualification du personnel",
-          "fabrication des intermédiaires",
-          "fabrication des substances actives",
-          "formation initiale",
-          "formation complémentaire",
-          "expérience",
-          "responsabilités",
-          "enregistrements de formation",
-          "hygiène du personnel"
-        ]
+        "mots_cles": ["gestion de la qualité", "personnel", "qualification du personnel", "fabrication des intermédiaires", "fabrication des substances actives", "formation initiale", "formation complémentaire", "expérience", "responsabilités", "enregistrements de formation", "hygiène du personnel", "pratiques d'hygiène", "vêtements propres", "équipements de protection", "contamination", "stockage de la nourriture", "zones spécifiées", "maladie infectieuse", "lésions ouvertes", "état de santé", "personnel médical qualifié", "réintégration", "sécurité", "qualité", "consultants", "organismes de conseil", "formulation des avis", "enregistrements des consultants"]
       },
       {
         "Titre": "Bâtiments et Installations",
         "Page": 67,
-        "mots_cles": [
-          "gestion de la qualité",
-          "bâtiments et installations",
-          "fabrication des substances actives",
-          "fabrication des intermédiaires",
-          "conception et construction",
-          "nettoyage",
-          "maintenance",
-          "opérations associées",
-          "risques de contamination"
-        ]
+        "mots_cles": ["gestion de la qualité", "bâtiments et installations", "fabrication des substances actives", "fabrication des intermédiaires", "conception et construction", "nettoyage", "maintenance", "opérations associées", "risques de contamination", "spécifications microbiologiques", "contaminants microbiologiques", "implantation rationnelle", "équipements", "matières", "contamination", "systèmes clos", "systèmes confinés", "protection du produit", "flux des matières", "flux du personnel", "confusions", "zones identifiées", "réception", "identification", "échantillonnage", "quarantaine", "libération", "refus", "stockage des matières refusées", "stockage des matières libérées", "opérations de production", "opérations de conditionnement", "opérations d’étiquetage", "opérations de contrôle en laboratoire", "installations sanitaires", "savon", "détergents", "sèche-mains", "vestiaires", "douches", "laboratoires", "opérations associées", "zones de production", "contrôles en cours de procédé", "précision des mesures", "utilités", "vapeur", "gaz", "air comprimé", "chauffage", "ventilation", "climatisation", "qualification", "surveillance", "actions", "limites spécifiées", "plans des systèmes d'utilités", "ventilation appropriée", "filtration de l'air", "système d'extraction", "contrôle de la pression de l'air", "contamination microbiologique", "contamination particulaire", "humidité", "température", "air recyclé", "tuyauterie fixe", "identification de la tuyauterie", "canalisations d’effluents", "siphon", "dispositif anti-retour", "eau utilisée", "OMS", "qualité de l'eau potable", "spécifications de l’eau", "dénombrement des germes totaux", "germes indésirables", "concentration en endotoxines", "procédé de traitement de l’eau", "validation", "surveillance", "seuils d'action", "étapes finales d'isolement et de purification", "confinement", "substances hautement sensibilisantes", "pénicillines", "céphalosporines", "substances de nature infectieuse", "substances à haute activité pharmacologique", "substances toxiques", "stéroïdes", "agents anticancéreux cytotoxiques", "procédures validées d'inactivation", "procédures de nettoyage", "contamination croisée", "contamination par le personnel", "contamination par les matières", "locaux de production dédiés", "installations dédiées", "systèmes de traitement d’air dédiés", "équipements de production dédiés", "éclairage approprié", "nettoyage", "entretien", "bon déroulement des opérations", "eaux usées", "rejets", "déchets", "sous-produits de fabrication", "solides", "liquides", "gazeux", "réservoirs", "tuyauteries", "hygiène et entretien", "entretien", "réparation", "maintenance", "procédures écrites", "responsabilité de l'hygiène", "plannings de nettoyage", "méthodes de nettoyage", "équipements de nettoyage", "produits de nettoyage", "rodenticides", "insecticides", "fongicides", "produits de fumigation", "produits nettoyants et décontaminants", "prévention de la contamination", "équipements", "matières premières", "articles de conditionnement", "articles d'étiquetage", "intermédiaires", "substances actives"]
       },
       {
         "Titre": "Équipements de Fabrication",
         "Page": 70,
-        "mots_cles": [
-          "gestion de la qualité",
-          "équipements de fabrication",
-          "fabrication des intermédiaires",
-          "fabrication des substances actives",
-          "conception et construction",
-          "nettoyage",
-          "décontamination",
-          "entretien",
-          "surfaces en contact",
-          "qualité"
-        ]
+        "mots_cles": ["gestion de la qualité", "équipements de fabrication", "fabrication des intermédiaires", "fabrication des substances actives", "conception et construction", "nettoyage", "décontamination", "entretien", "surfaces en contact", "qualité", "spécifications officielles", "limites opératoires", "qualification", "réacteurs", "réservoirs de stockage", "tuyauteries fixes", "identification des équipements", "lubrifiants", "fluides caloporteurs", "équipements fermés", "équipements confinés", "contamination", "plans des équipements", "maintenance préventive", "procédures de nettoyage", "nettoyage efficace et reproductible", "attribution des responsabilités", "planning de nettoyage", "décontamination", "méthodes de nettoyage", "agents de nettoyage", "démontage", "remontage", "élimination de l'identification du lot précédent", "protection contre la contamination", "inspection de la propreté", "temps maximal de nettoyage", "stockage des équipements", "décontamination", "stérilisation", "production continue", "campagne de production", "contamination croisée", "critères d'acceptation des résidus", "procédures et agents de nettoyage", "identification du contenu", "statut de propreté", "étalonnage", "appareils de contrôle", "appareils de pesée", "appareils de mesure", "appareils de surveillance", "appareils de test", "procédures écrites", "planning d'étalonnage", "standards de référence", "enregistrements d'étalonnage", "statut d'étalonnage", "instruments non conformes", "enquête des écarts", "impact sur la qualité", "systèmes informatisés", "validation des systèmes informatisés", "diversité", "complexité", "criticité", "qualification d’installation", "qualification opérationnelle", "logiciels du marché", "validation rétrospective", "documentation", "contrôle d'accès", "modification de données", "enregistrement des modifications", "procédures écrites d'exploitation", "procédures de maintenance", "contrôle supplémentaire des saisies manuelles", "enquête des incidents", "modifications du système informatisé", "procédure de modification", "autorisation formelle", "tests des modifications", "enregistrements des modifications", "sauvegarde des enregistrements", "protection des données", "enregistrement"]
       },
       {
         "Titre": "Documentation et Enregistrements",
         "Page": 73,
-        "mots_cles": [
-          "gestion de la qualité",
-          "documentation et enregistrements",
-          "fabrication des intermédiaires",
-          "fabrication des substances actives",
-          "préparation des documents",
-          "vérification des documents",
-          "approbation des documents",
-          "distribution des documents",
-          "procédures écrites"
-        ]
+        "mots_cles": ["gestion de la qualité", "documentation et enregistrements", "fabrication des intermédiaires", "fabrication des substances actives", "préparation des documents", "vérification des documents", "approbation des documents", "distribution des documents", "procédures écrites", "émission des documents", "révision des documents", "retrait des documents", "historique des révisions", "procédures de conservation", "historique des rapports de développement", "rapports d'industrialisation", "rapports de transfert de technologie", "rapports de validation", "enregistrement des formations", "dossiers de fabrication", "dossiers de contrôle", "dossiers de distribution", "durée de conservation des documents", "date de péremption des lots", "dates de recontrôle", "enregistrement des activités", "identification des personnes", "corrections des données", "date des corrections", "signature des corrections", "lisibilité des données d'origine", "originaux des enregistrements", "copies des enregistrements", "systèmes électroniques", "techniques de réduction", "microfilms", "enregistrement électronique", "équipements de restitution", "copies sur support papier", "spécifications", "matières premières", "intermédiaires", "substances actives", "articles de conditionnement", "articles d'étiquetage", "adjuvants de procédés", "garnitures / joints d'étanchéité", "critères d'acceptation", "contrôles en cours de procédé", "signatures électroniques", "certification des signatures électroniques", "sécurité des signatures électroniques", "enregistrement de l'utilisation des équipements", "nettoyage des équipements", "décontamination des équipements", "stérilisation des équipements", "entretien des équipements", "traçabilité des équipements", "enregistrements individuels de l'utilisation des équipements", "dossiers de lots", "enregistrements de nettoyage", "enregistrements d'entretien", "enregistrement des matières premières", "enregistrement des intermédiaires", "enregistrement des substances actives", "enregistrement des articles de conditionnement", "enregistrement des articles d'étiquetage", "identité des livraisons", "quantité des livraisons", "numéros de contrôle des fournisseurs", "numéros d'identification", "numéros attribués à la réception", "date de réception", "résultats des contrôles", "vérifications effectuées", "conclusions des vérifications", "utilisation des matières", "conformité aux spécifications", "articles de conditionnement et d'étiquetage", "articles refusés", "décision concernant les articles refusés", "spécimens approuvés d'étiquettes", "comparaison des étiquettes", "dossiers maîtres de production", "uniformité des lots", "instructions de production", "code de référence", "liste des matières premières", "liste des intermédiaires", "quantités des matières premières", "quantités des intermédiaires", "unités de mesure", "calcul des quantités", "variation des quantités", "lieu de production", "équipements utilisés", "instructions de production détaillées", "séquences à suivre", "paramètres du procédé", "instructions d'échantillonnage", "contrôles en cours de procédé", "critères d'acceptation", "durées des étapes du procédé", "durées du procédé complet", "rendements attendus", "indications particulières", "précautions à prendre", "instructions de stockage", "articles de conditionnement et d'étiquetage", "conditions de stockage", "durées limites de stockage", "dossiers de production de lot", "information complète", "production et contrôle des lots", "vérification des dossiers de production de lot", "reproduction fidèle", "instructions du dossier maître de production", "document différent du dossier maître", "référence au dossier maître de production", "numéro de lot", "identification unique", "dates et horaires de production", "code du produit", "identification des équipements", "identification des matières premières", "identification des intermédiaires", "identification des matières retraitées", "valeurs des paramètres critiques du procédé", "échantillonnage effectué", "signatures des personnes", "résultats des contrôles en cours de procédé", "résultats des contrôles de laboratoire", "rendements réels obtenus", "articles de conditionnement et d'étiquetage", "étiquette représentative", "écarts constatés", "évaluation des écarts", "enquêtes menées", "résultats des contrôles de libération", "enquêtes sur les écarts critiques", "enquêtes sur les non-conformités", "enregistrements des contrôles de laboratoire", "données des contrôles", "description des échantillons réceptionnés", "nom de la matière", "origine de la matière", "numéro de lot", "code distinctif", "date de prélèvement de l'échantillon", "quantité de l'échantillon", "date de réception de l'échantillon", "méthode de contrôle utilisée", "poids ou mesure de l'échantillon", "préparation des standards de référence", "préparation des réactifs", "préparation des solutions de référence", "données brutes générées", "graphiques", "tableaux de résultats", "spectres obtenus", "calculs réalisés", "unités de mesure", "facteurs de conversion", "facteurs d'équivalence", "résultats des contrôles", "comparaison aux critères d'acceptation", "signature de la personne ayant effectué le contrôle", "date de réalisation du contrôle", "signature de la seconde personne", "exactitude des enregistrements", "conformité aux normes établies", "modification des méthodes analytiques", "étalonnage des instruments de laboratoire", "essais de stabilité", "investigations sur les non-conformités", "revue des dossiers de production de lot", "approbation des dossiers de production de lot", "revue des dossiers de contrôle en laboratoire", "conditionnement et étiquetage", "détermination de la conformité", "libération ou distribution du lot", "étapes critiques du procédé", "approbation par l'unité qualité", "étapes non critiques du procédé", "revue par le personnel qualifié de production", "procédures approuvées par l'unité qualité", "rapport relatif à un écart", "rapport relatif à une enquête", "rapport relatif à une non-conformité", "libération des intermédiaires", "expédition hors du contrôle du fabricant", "délégation de la responsabilité"]
       },
       {
         "Titre": "Gestion des Matières",
         "Page": 77,
-        "mots_cles": [
-          "gestion des matières",
-          "réception des matières",
-          "identification des matières",
-          "quarantaine des matières",
-          "stockage des matières",
-          "manutention des matières",
-          "échantillonnage des matières",
-          "contrôles des matières",
-          "approbation des matières"
-        ]
+        "mots_cles": ["gestion des matières", "réception des matières", "identification des matières", "quarantaine des matières", "stockage des matières", "manutention des matières", "échantillonnage des matières", "contrôles des matières", "approbation des matières", "refus des matières", "évaluation des fournisseurs", "spécifications approuvées", "fournisseurs approuvés", "unité qualité", "changement de source d’approvisionnement", "maîtrise des modifications", "conformité de l’étiquetage", "intégrité des scellés", "altérations ou contaminations", "identification des contenants endommagés", "libération des matières", "identification des matières réceptionnées", "contrôles des matières réceptionnées", "mélange des matières réceptionnées avec les stocks existants", "citernes non dédiées", "absence de contamination croisée", "certificat de lavage", "contrôle des impuretés à l'état de traces", "audit du fournisseur", "identification des réservoirs de stockage", "identification des collecteurs", "identification des lignes de remplissage et de soutirage", "code distinctif", "numéro de lot", "numéro de réception", "système de statut des lots", "test d'identification", "certificat d'analyse du fournisseur", "évaluation des fournisseurs", "analyses complètes", "fiabilité des certificats d'analyse", "adjuvants de procédé", "matières dangereuses", "matières hautement toxiques", "matières spéciales", "transfert de matières", "identité des matières", "échantillons représentatifs", "méthodes d'échantillonnage", "nombre de contenants à échantillonner", "quantité de matière à prélever", "plan d'échantillonnage", "criticité de la matière", "variabilité de la matière", "historique qualité du fournisseur", "quantité nécessaire à l'analyse", "prévention de la contamination", "contenants à partir desquels les échantillons sont prélevés", "dégradation des matières", "contamination des matières", "contamination croisée des matières", "conditions de stockage", "durée de stockage", "utilisation du stock le plus ancien", "stockage à l’extérieur", "contenants adaptés", "lisibilité des étiquettes d'identification", "nettoyage des contenants", "système de quarantaine", "utilisation non autorisée", "réévaluation des matières", "stockage prolongé", "exposition à la chaleur", "exposition à l’humidité", "procédures écrites", "système d’évaluation des fournisseurs", "contrôles internes", "analyses complètes", "fiabilité des certificats d’analyse", "matières propres à être utilisées"]
       },
       {
         "Titre": "Production et Contrôles en Cours de Procédé",
         "Page": 79,
-        "mots_cles": [
-          "gestion de la qualité",
-          "production des intermédiaires",
-          "production des substances actives",
-          "opérations de production",
-          "pesée des matières premières",
-          "mesure des matières premières",
-          "conditions appropriées"
-        ]
+        "mots_cles": ["gestion de la qualité", "production des intermédiaires", "production des substances actives", "opérations de production", "pesée des matières premières", "mesure des matières premières", "conditions appropriées", "balances", "appareils de mesure", "fractionnement des matières", "identification des contenants", "nom de la matière", "code de l'article", "numéro de réception", "numéro de contrôle", "poids de la matière", "mesure de la matière", "date de réévaluation", "date de recontrôle", "attestation des opérations critiques", "contrôle des opérations critiques", "vérification des matières", "rendements obtenus", "rendements attendus", "données antérieures", "écarts de rendement", "enquêtes des écarts", "impact sur la qualité", "documentation des écarts", "statut d'utilisation des équipements", "utilisation non autorisée", "durées limites", "instructions du dossier maître de production", "écarts aux durées limites", "documentation des écarts", "réactions chimiques", "étapes de procédé", "échantillonnage en cours de procédé", "contrôles en cours de procédé", "suivi de procédé", "critères d'acceptation", "variabilité des caractéristiques de qualité", "critères d’acceptation", "méthodes de contrôle", "ajustements du procédé", "documentation des contrôles", "documentation des résultats", "méthodes d’échantillonnage", "pratiques d’échantillonnage scientifiquement fondées", "contamination des matières prélevées", "intégrité des échantillons", "non-conformités aux spécifications", "mélange de lots d’intermédiaires", "mélange de lots de substances actives", "procédé de mélange", "homogénéité des lots mélangés", "validation des opérations de mélange", "caractéristiques critiques de la substance active", "répartition granulométrique", "densité apparente", "densité après tassement", "stabilité du produit", "essais de stabilité", "date de péremption", "date de fabrication", "maîtrise de la contamination", "report de matière résiduelle", "accumulation de produits de dégradation", "contamination microbiologique", "profil d’impuretés", "opérations de production", "contamination des intermédiaires", "contamination des substances actives", "précautions post-purification"]
       },
       {
         "Titre": "Conditionnement et Étiquetage",
         "Page": 82,
-        "mots_cles": [
-          "gestion de la qualité",
-          "conditionnement et étiquetage",
-          "substances actives",
-          "intermédiaires",
-          "procédures écrites",
-          "réception des articles de conditionnement et d’étiquetage"
-        ]
+        "mots_cles": ["gestion de la qualité", "conditionnement et étiquetage", "substances actives", "intermédiaires", "procédures écrites", "réception des articles de conditionnement et d’étiquetage", "identification des articles de conditionnement et d’étiquetage", "mise en quarantaine", "échantillonnage", "examen", "contrôle", "libération", "manipulation des articles de conditionnement et d’étiquetage", "spécifications établies", "articles non conformes", "enregistrements", "réception", "examen ou contrôle", "acceptation ou refus", "protection contre détérioration ou contamination", "transport et stockage", "contenants propres", "décontamination", "réutilisation des contenants", "nettoyage des contenants", "enlèvement des étiquettes précédentes", "réaction avec les intermédiaires et substances actives", "absorption", "imprégnation", "qualité des intermédiaires et substances actives", "accès au stock des étiquettes", "personnel autorisé", "réconciliation des quantités d’étiquettes", "utilisation et retour des étiquettes", "écarts entre nombre de contenants étiquetés et étiquettes émises", "enquêtes des écarts", "approbation par l’unité qualité", "étiquettes excédentaires", "destruction des étiquettes excédentaires", "étiquettes retournées", "stockage des étiquettes retournées", "identification correcte des étiquettes retournées", "étiquettes obsolètes et périmées", "destruction des étiquettes obsolètes et périmées", "dispositifs d'impression des étiquettes", "contrôle des dispositifs d'impression", "conformité des étiquettes imprimées", "dossier de production de lot", "étiquettes imprimées représentatives", "opérations de conditionnement et d’étiquetage", "procédures documentées", "utilisation correcte des articles de conditionnement et des étiquettes", "prévention des confusions", "séparation physique ou spatiale", "étiquetage correct des contenants", "nom ou code d’identification", "numéro de lot du produit", "conditions de stockage", "nom et adresse du fabricant", "quantité par contenant", "conditions spéciales de transport", "exigences réglementaires particulières", "date de péremption", "date de recontrôle", "certificat d’analyse", "inspection des installations", "enregistrement de l’inspection", "dossiers de production de lot", "registre de l’installation", "système de documentation", "examen des intermédiaires ou substances actives conditionnés et étiquetés", "étiquetage correct des contenants et emballages", "résultats de l’examen", "dossier de production de lot ou de contrôle", "transport des contenants d’intermédiaires ou de substances actives", "scellés des contenants", "dispositifs d'inviolabilité", "altération des contenus"]
       },
       {
         "Titre": "Stockage et Distribution",
         "Page": 84,
-        "mots_cles": [
-          "gestion de la qualité",
-          "stockage",
-          "distribution",
-          "substances actives",
-          "intermédiaires",
-          "locaux d’entreposage",
-          "conditions de stockage",
-          "température",
-          "humidité"
-        ]
+        "mots_cles": ["gestion de la qualité", "stockage", "distribution", "substances actives", "intermédiaires", "locaux d’entreposage", "conditions de stockage", "température", "humidité", "enregistrements des conditions de stockage", "système alternatif", "matières en quarantaine", "matières refusées", "matières retournées", "matières rappelées", "utilisation accidentelle ou non autorisée", "zones séparées", "décision sur future utilisation", "libération pour distribution", "unité qualité", "transfert sous quarantaine", "contrôles appropriés", "documentation appropriée", "conditions de transport", "altération de la qualité", "conditions spéciales de transport ou de stockage", "étiquette", "contractant pour le transport", "respect des conditions de transport et de stockage", "système de traçabilité", "localisation des lots distribués", "rappel des lots"]
       },
       {
         "Titre": "Contrôles en Laboratoire",
         "Page": 85,
-        "mots_cles": [
-          "gestion de la qualité",
-          "contrôles en laboratoire",
-          "substances actives",
-          "intermédiaires",
-          "installations de laboratoire",
-          "procédures documentées",
-          "échantillonnage"
-        ]
+        "mots_cles": ["gestion de la qualité", "contrôles en laboratoire", "substances actives", "intermédiaires", "installations de laboratoire", "procédures documentées", "échantillonnage", "contrôle", "acceptation ou refus des matières", "enregistrement des données de laboratoire", "stockage des données de laboratoire", "spécifications", "plans d'échantillonnage", "procédures de contrôle", "matières premières", "intermédiaires", "substances actives", "articles de conditionnement et d'étiquetage", "standards établis de qualité et / ou de pureté", "dossiers réglementaires d'enregistrement", "impuretés organiques", "impuretés inorganiques", "solvants résiduels", "pureté microbiologique", "germes totaux", "germes indésirables", "endotoxines", "déviation aux procédures", "résultats non conformes aux spécifications", "enquête des résultats non conformes", "réactifs", "solutions de référence", "dates limites d'utilisation", "substances de référence primaires", "origines des substances de référence primaires", "enregistrements des substances de référence primaires", "stockage des substances de référence primaires", "utilisation des substances de référence primaires", "sources officiellement reconnues", "contrôle des substances de référence primaires", "substances de référence secondaires", "préparation des substances de référence secondaires", "contrôles des substances de référence secondaires", "qualification des substances de référence secondaires", "contrôles de laboratoire des intermédiaires et substances actives", "profil d’impuretés", "impuretés identifiées", "impuretés non identifiées", "lot typique issu d’un procédé de production donné", "procédé de production", "substances actives issues de végétaux ou de tissus animaux", "substances actives issues des biotechnologies", "contrôles microbiologiques des intermédiaires et substances actives", "validation des méthodes analytiques", "certificats d’analyse", "authentification des certificats d’analyse", "nom de l’intermédiaire ou de la substance active", "numéro de lot", "date de libération", "date de péremption", "date de recontrôle", "résultats des contrôles", "limites d’acceptation", "personnel autorisé de l’unité qualité", "nom, adresse et numéro de téléphone du fabricant d’origine", "agents ou courtiers", "nom, adresse et numéro de téléphone de l’entreprise qui reconditionne / retraite les substances actives", "nom, adresse et numéro de téléphone du laboratoire qui a réalisé l’analyse", "copie du certificat d’origine du lot", "programme de contrôle continu de la stabilité", "méthodes validées", "caractéristiques de stabilité", "conditions de stockage appropriées", "dates de péremption ou de recontrôle", "échantillons utilisés pour les contrôles de stabilité", "contenants qui simulent le contenant commercialisé", "méthodes de contrôle de stabilité", "études précédentes", "lots de production commercialisés", "données issues des études de stabilité", "lots de taille pilote", "procédés et procédures qui simulent le procédé définitif", "qualité de la substance active", "échantillon représentatif", "recontrôle", "conditionnement et conservation d'échantillons en échantillothèque", "évaluation de la qualité des lots de substances actives", "échantillons convenablement identifiés", "conservation des échantillons en échantillothèque", "date de péremption", "distribution complète du lot", "quantités suffisantes d’échantillons", "Pharmacopée", "spécifications complètes", "monographie à la Pharmacopée"]
       },
       {
         "Titre": "Validation",
         "Page": 88,
-        "mots_cles": [
-          "gestion de la qualité",
-          "validation",
-          "politique de validation",
-          "validation des procédés de production",
-          "validation des méthodes de nettoyage",
-          "validation des méthodes analytiques"
-        ]
+        "mots_cles": ["gestion de la qualité", "validation", "politique de validation", "validation des procédés de production", "validation des méthodes de nettoyage", "validation des méthodes analytiques", "validation des méthodes de contrôle en cours de procédé", "validation des systèmes informatisés", "documentation de la validation", "protocole de validation", "étapes critiques du procédé", "critères d'acceptation", "type de validation", "qualification des équipements critiques", "qualification des systèmes auxiliaires", "qualification de conception", "qualification d’installation", "qualification opérationnelle", "qualification de performance", "validation prospective", "validation simultanée", "validation rétrospective", "programme de validation des procédés", "paramètres critiques du procédé", "profil d'impuretés", "revue périodique des systèmes validés", "validation des nettoyages", "procédures de nettoyage", "contamination", "accumulation de matières", "validation des méthodes analytiques", "Pharmacopée", "guides ICH", "qualification des appareils d'analyse", "enregistrements des modifications", "paramètres / caractéristiques critiques", "limites nécessaires à la reproductibilité des opérations", "caractéristiques critiques de la substance active", "paramètres du procédé", "limites de chaque paramètre critique", "opérations jugées critiques pour la qualité et la pureté", "échantillonnage", "résultats obtenus", "déviations observées", "conclusions appropriées", "modifications recommandées", "écarts au protocole de validation", "justification appropriée", "validation des procédés de production", "validation des méthodes de contrôle en cours de procédé", "validation des systèmes informatisés", "personnes responsables de la conception", "personnes responsables de la revue", "personnes responsables de l'approbation", "personnes responsables de la documentation", "lots de production consécutifs réussis", "lots de production supplémentaires", "profil d'impuretés comparé", "profil d'impuretés de chacune des substances actives", "échantillons de l’échantillothèque", "systèmes et procédés validés", "détection des résidus ou des contaminants", "charge microbiologique totale", "teneur en endotoxines", "contamination microbiologique", "contamination en endotoxines", "procédures de nettoyage validées", "surveillance des procédures de nettoyage", "contrôles analytiques", "examen visuel", "détection de la contamination", "méthodes analytiques validées", "limite de détection", "niveau acceptable de résidus", "niveau de récupération", "limites de résidus", "activité minimale", "activité pharmacologique", "activité toxicologique", "activité physiologique", "composant le plus nuisible pour la santé", "pertinence des méthodes d'analyse", "conditions réelles d’utilisation", "modification d'une méthode analytique validée", "raison de la modification", "données appropriées pour vérifier la modification"]
       },
       {
         "Titre": "Maîtrise des Modifications",
         "Page": 92,
-        "mots_cles": [
-          "gestion de la qualité",
-          "maîtrise des modifications",
-          "système de maîtrise des modifications",
-          "production et contrôle des intermédiaires",
-          "production et contrôle des substances actives"
-        ]
+        "mots_cles": ["gestion de la qualité", "maîtrise des modifications", "système de maîtrise des modifications", "production et contrôle des intermédiaires", "production et contrôle des substances actives", "procédures écrites", "identification des modifications", "documentation des modifications", "revue des modifications", "approbation des modifications", "matières premières", "spécifications", "méthodes analytiques", "locaux", "systèmes supports", "équipements", "matériel informatique", "étapes des procédés", "articles de conditionnement et d'étiquetage", "logiciels informatiques", "propositions de modification en rapport avec les BPF", "unité qualité", "impact potentiel des modifications", "qualité de l'intermédiaire ou de la substance active", "procédure de classification", "niveau de contrôle", "niveau de validation", "niveau de documentation", "modifications mineures", "modifications majeures", "évaluation scientifique", "contrôles complémentaires", "études de validation", "mise en œuvre des modifications approuvées", "révisions des documents concernés", "évaluation des premiers lots produits ou contrôlés", "dates de recontrôle ou de péremption", "programme de stabilité accéléré", "programme de surveillance de la stabilité", "fabricants des médicaments existants", "prévention des fabricants", "modifications des procédures établies", "impact sur la qualité de la substance active"]
       },
       {
         "Titre": "Refus et Réutilisation des Matières",
         "Page": 93,
-        "mots_cles": [
-          "gestion de la qualité",
-          "refus et réutilisation des matières",
-          "intermédiaires",
-          "substances actives",
-          "non conformes aux spécifications"
-        ]
+        "mots_cles": ["gestion de la qualité", "refus et réutilisation des matières", "intermédiaires", "substances actives", "non conformes aux spécifications", "identification des matières refusées", "mise en quarantaine", "retraitement standard", "retraitement spécifique", "destination définitive des matières refusées", "enregistrement de la destination", "répétition des étapes de cristallisation", "étapes chimiques ou de traitement physique", "procédé de fabrication établi", "contrôle en cours de procédé", "introduction en amont de matières", "réaction chimique", "évaluation précise", "formation de sous-produits", "matières ayant trop réagi", "enquête sur les causes de la non-conformité", "évaluation appropriée", "contrôles", "tests de stabilité", "documentation", "validation simultanée", "protocole de retraitement spécifique", "profil d'impuretés", "méthodes analytiques de routine", "méthodes supplémentaires", "récupération des matières et des solvants", "réactifs", "substances actives", "jus mères", "filtrats", "procédures approuvées", "récupération des solvants", "réutilisation des solvants", "mélanges de solvants", "réactifs récupérés", "contrôles appropriés", "utilisation des solvants récupérés", "documentation de l’utilisation des solvants récupérés", "retours des intermédiaires et substances actives", "identification des intermédiaires et substances actives retournés", "mise en quarantaine des intermédiaires et substances actives retournés", "stockage", "transport", "aspect des contenants", "doute sur la qualité", "retraitement standard ou spécifique", "destruction des intermédiaires et substances actives retournés", "enregistrements des retours", "nom et adresse du consignataire", "numéros des lots retournés", "quantité retournée", "raison du retour", "utilisation ou destruction des intermédiaires ou substances actives retournés"]
       },
       {
         "Titre": "Réclamations et Rappels",
         "Page": 95,
-        "mots_cles": [
-          "gestion de la qualité",
-          "réclamations",
-          "rappels",
-          "intermédiaires",
-          "substances actives",
-          "enregistrements des réclamations"
-        ]
+        "mots_cles": ["gestion de la qualité", "réclamations", "rappels", "intermédiaires", "substances actives", "enregistrements des réclamations", "procédure écrite", "nom et adresse du plaignant", "nom et numéro de téléphone de la personne ayant effectué la réclamation", "nature de la réclamation", "nom et numéro de lot de l'intermédiaire ou de la substance active", "date de réception de la réclamation", "mesure prise dès la réception de la réclamation", "date et identité de la personne ayant pris la mesure", "mesure de suivi prise", "réponse faite à l'auteur de la réclamation", "date d'envoi de la réponse", "décision définitive prise pour le lot d'intermédiaire ou de substance active", "évaluation des tendances des réclamations", "fréquences d'apparition par produit", "gravité des réclamations", "actions correctives supplémentaires", "actions correctives immédiates", "procédure de rappel", "circonstances de rappel d'un intermédiaire ou d'une substance active", "personnes impliquées dans l'évaluation de l'information", "initiation d'un rappel", "personnes informées du rappel", "traitement de la matière rappelée", "situation grave ou pouvant mettre la vie en danger", "autorités locales et nationales", "autorités internationales", "avis des autorités"]
       },
       {
         "Titre": "Fabricants sous Contrat",
         "Page": 96,
-        "mots_cles": [
-          "gestion de la qualité",
-          "fabricants sous contrat",
-          "laboratoires",
-          "bonnes pratiques de fabrication (BPF)"
-        ]
+        "mots_cles": ["gestion de la qualité", "fabricants sous contrat", "laboratoires", "bonnes pratiques de fabrication (BPF)", "conformité aux BPF", "prévention de la contamination croisée", "traçabilité", "évaluation des fabricants sous contrat", "donneur d'ordre", "contrat écrit et approuvé", "agrément formel", "responsabilités relatives au respect des BPF", "mesures de qualité", "audit de conformité aux BPF", "sous-traitance", "évaluation et approbation préalable", "enregistrements des fabrications", "enregistrements des contrôles de laboratoire", "conservation des enregistrements", "disponibilité des enregistrements", "modifications de procédé", "modifications d'équipement", "modifications de méthodes de contrôle", "modifications de spécifications", "modifications d'autres exigences contractuelles", "information et approbation du donneur d'ordre"]
       },
       {
         "Titre": "Agents, Courtiers, Négociants",
         "Page": 97,
-        "mots_cles": [
-          "gestion de la qualité",
-          "agents",
-          "courtiers",
-          "négociants",
-          "distributeurs",
-          "reconditionneurs",
-          "réétiqueteurs"
-        ]
+        "mots_cles": ["gestion de la qualité", "agents", "courtiers", "négociants", "distributeurs", "reconditionneurs", "réétiqueteurs", "traçabilité", "substances actives", "intermédiaires", "bonnes pratiques de fabrication (BPF)", "identité du fabricant d'origine", "adresse du fabricant d'origine", "ordres d'achat", "connaissements", "documentation de transport", "documents de réception", "nom ou dénomination de la substance active ou de l'intermédiaire", "numéro de lot du fabricant", "documents de transport et de distribution", "certificats d'analyse authentiques", "dates de péremption ou de recontrôle", "management de la qualité", "système de management de la qualité", "reconditionnement", "réétiquetage", "détention des substances actives et des intermédiaires", "conditions environnementales appropriées", "contamination", "contamination croisée", "études de stabilité", "dates de péremption", "dates de recontrôle", "contenant de type différent", "transmission de l'information", "réglementation", "informations relatives à la qualité", "enregistrements des réclamations", "enregistrements des rappels", "examen des réclamations", "enquête sur la cause des réclamations", "documentation des enquêtes", "réponse du fabricant d'origine", "traitement des retours", "documentation relative aux substances actives et aux intermédiaires retournés", "documentation des retours"]]
       },
       {
         "Titre": "Substances Actives fabriquées par Culture Cellulaire/Fermentation",
         "Page": 99,
-        "mots_cles": [
-          "gestion de la qualité",
-          "substances actives fabriquées par culture cellulaire ou fermentation",
-          "procédés biotechnologiques",
-          "fermentation classique"
-        ]
+        "mots_cles": ["gestion de la qualité", "substances actives fabriquées par culture cellulaire ou fermentation", "procédés biotechnologiques", "fermentation classique", "organismes naturels", "organismes recombinants", "protéines", "polypeptides", "antibiotiques", "acides aminés", "vitamines", "hydrates de carbone", "procédés biologiques", "culture de cellules", "extraction", "purification", "matières premières", "milieux de culture", "composants du tampon", "croissance potentielle de contaminants microbiologiques", "contrôle de la biocharge", "contamination virale", "endotoxines", "contrôles appropriés", "banques de cellules", "banques de cellules de travail", "viabilité des cellules", "ampoules extraites des banques de cellules", "conditions de stockage", "contrôles périodiques", "maintenance de la banque de cellules", "équipements et contrôles d'environnement appropriés", "risque de contamination", "critères d'acceptation pour la qualité de l'environnement", "fréquence des contrôles", "contrôles du procédé", "maintenance de la banque de cellules de travail", "inoculation et développement corrects de la culture", "maîtrise des paramètres critiques de fonctionnement", "surveillance du procédé", "croissance cellulaire", "viabilité", "productivité", "procédures de récolte et de purification", "élimination des cellules", "débris cellulaires", "composants des milieux de culture", "contamination", "perte de qualité", "surveillance de la biocharge", "niveau d'endotoxines", "sécurité virale", "guide Q5A de l’ICH", "élimination virale", "inactivation virale", "précautions appropriées", "contamination virale potentielle", "unités de traitement d'air séparées", "équipement pour différentes étapes de purification", "nettoyage et décontamination", "report potentiel de virus", "contrôle de la qualité", "procédés de fermentation", "procédés de culture cellulaire", "procédés de biotechnologie", "procédés de fermentation classique", "substances actives de haut poids moléculaire", "substances actives de bas poids moléculaire", "contrôles appropriés des procédés", "contrôles environnementaux", "enregistrements des cas de contamination"]
       },
       {
         "Titre": "Substances Actives utilisées en Essais Cliniques",
         "Page": 102,
-        "mots_cles": [
-          "gestion de la qualité",
-          "substances actives utilisées en essais cliniques",
-          "fabrication d'une nouvelle substance active",
-          "phase de développement"
-        ]
+        "mots_cles": ["gestion de la qualité", "substances actives utilisées en essais cliniques", "fabrication d'une nouvelle substance active", "phase de développement", "contrôles appropriés", "procédé et procédures de contrôle", "procédures de production et de contrôle", "qualité de la substance active", "unité qualité", "approbation ou refus de chaque lot", "contrôle des matières premières", "articles de conditionnement", "intermédiaires", "substances actives", "étiquetage des substances actives", "installations adaptées", "étalonnage des équipements", "propreté des équipements", "aptitude à l'utilisation prévue", "procédures pour l'utilisation des installations", "manipulation des matières", "contamination", "contamination croisée", "évaluation des matières premières", "analyse du fournisseur", "test d'identification", "aptitude d'une matière première à être utilisée", "acceptabilité dans des réactions à petite échelle", "test d'utilisation", "documentation de la production", "cahiers de laboratoire", "dossiers de lot", "utilisation des matières en production", "équipements", "procédés", "observations scientifiques", "rendements attendus", "variations de rendement", "enquêtes des variations de rendement", "validation des procédés", "production des substances actives pour essais cliniques", "contrôles", "étalonnage des équipements", "qualification des équipements", "qualité de la substance active", "modifications pendant le développement", "enregistrement des modifications", "production", "spécifications", "procédures de contrôle", "méthodes analytiques utilisées", "validation des méthodes analytiques", "mise en réserve d'échantillons", "quantité suffisante de chaque échantillon mis en réserve", "durée appropriée après l'approbation", "date de péremption ou de recontrôle", "substances actives existantes", "nouvelles substances actives", "phases préliminaires des essais cliniques", "documentation et disponibilité de l'information", "développement et mise en œuvre des méthodes analytiques", "libération d'un lot de substance active pour essais cliniques", "conservation des enregistrements de production et de contrôle", "documents", "garantir la conservation des enregistrements et des documents"]
       },
       {
         "Titre": "Glossaire",
         "Page": 104,
-        "mots_cles": [
-          "gestion de la qualité",
-          "glossaire des termes",
-          "adjuvants de procédé",
-          "article de conditionnement"
-        ]
+        "mots_cles": ["gestion de la qualité", "glossaire des termes", "adjuvants de procédé", "article de conditionnement", "assurance qualité (AQ)", "biocharge", "contamination", "contamination croisée", "contrôle de la qualité (CQ)", "contrôle du procédé", "contrôle en cours de procédé", "critères d'acceptation", "critique", "date de péremption", "date de recontrôle", "écart", "étalonnage", "fabricant sous contrat", "fabrication", "impureté", "intermédiaire", "jus mère", "lot", "matière", "matière première", "matière première de départ de la substance active", "médicament", "numéro de lot", "procédure", "production", "profil d'impuretés", "protocole de validation", "qualification", "quarantaine", "rendement attendu", "rendement théorique", "retraitement spécifique", "retraitement standard", "signature", "solvant", "substance active", "substance pharmaceutique", "substance de référence primaire", "substance de référence secondaire", "système informatique", "système informatisé", "unité(s) qualité", "validation"] }
+      ]
       }
     ]
   }

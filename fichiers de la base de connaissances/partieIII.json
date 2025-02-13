@@ -10,122 +10,48 @@
           {
             "Titre": "Préambule",
             "Page": 110,
-            "mots_cles": [
-              "gestion de la qualité",
-              "gestion du risque qualité",
-              "document ICH Q9",
-              "autorités réglementaires",
-              "inspections BPF",
-              "principes de gestion du risque qualité",
-              "ligne directrice",
-              "processus de gestion du risque qualité"
-            ]
+            "mots_cles": ["gestion de la qualité", "site master file", "guide des bonnes pratiques de fabrication européennes", "état annuel", "article R. 5124-46 du code de la santé publique (CSP)", "directeur général de l'ANSM", "gestion du risque qualité (ICH Q9)", "document ICH Q9", "étape 4", "réunion de comité directeur de l’ICH", "9 novembre 2005", "environnement de production", "développement pharmaceutique", "élaboration de la partie qualité des dossiers d’autorisation de mise sur le marché", "autorités réglementaires", "évaluation pharmaceutique", "inspections BPF", "traitement des suspicions de défauts qualité", "ligne directrice", "amendement au chapitre 1 du guide des bonnes pratiques de fabrication", "février 2008", "entrée en vigueur en juillet 2008", "partie III du guide des bonnes pratiques de fabrication", "principes de gestion du risque qualité", "LD 20", "mars 2008", "processus de gestion du risque qualité", "applications de la gestion du risque qualité"]
           },
           {
             "Titre": "Introduction",
             "Page": 111,
-            "mots_cles": [
-              "gestion de la qualité",
-              "gestion du risque qualité",
-              "industrie pharmaceutique",
-              "autorités compétentes",
-              "protection du patient",
-              "développement et fabrication des médicaments",
-              "prise de décision",
-              "exigences réglementaires"
-            ]
+            "mots_cles": ["gestion de la qualité", "gestion du risque qualité", "industrie pharmaceutique", "autorités compétentes", "protection du patient", "développement et fabrication des médicaments", "cycle de vie du produit", "approche systématique", "principes de gestion du risque qualité", "outils de gestion du risque qualité", "prise de décision", "principe systématique de la gestion du risque qualité", "pratiques", "exigences", "normes", "lignes directrices qualité", "santé au travail", "santé publique", "pharmacovigilance", "probabilité d’apparition d’un dommage", "gravité du dommage", "parties prenantes", "patients", "professionnels de santé", "autorités politiques", "qualité du produit", "spécifications importantes pour la qualité du médicament", "études cliniques", "identification et maîtrise des dommages potentiels", "méthodes de gestion du risque qualité", "surveillance directe exercée par les autorités compétentes", "documents qualité ICH", "approche formelle de gestion du risque", "outils empiriques", "procédures internes", "procédures opérationnelles", "méthodes de gestion du risque qualité", "communication entre l’industrie et les autorités compétentes", "réglementation"]
           },
           {
             "Titre": "Champs d’Application",
             "Page": 112,
-            "mots_cles": [
-              "gestion de la qualité",
-              "gestion du risque qualité",
-              "qualité pharmaceutique",
-              "développement",
-              "fabrication",
-              "distribution",
-              "inspection",
-              "matières premières",
-              "articles de conditionnement"
-            ]
+            "mots_cles": ["gestion de la qualité", "gestion du risque qualité", "ligne directrice", "principes de gestion du risque qualité", "outils de gestion du risque qualité", "qualité pharmaceutique", "développement", "fabrication", "distribution", "inspection", "soumission", "révision des procédés", "cycle de vie", "substances actives", "médicaments", "produits biologiques", "produits biotechnologiques", "matières premières", "solvants", "excipients", "articles de conditionnement", "étiquettes"]
           },
           {
             "Titre": "Principes de la Gestion du Risque Qualité",
             "Page": 112,
-            "mots_cles": [
-              "gestion de la qualité",
-              "gestion du risque qualité",
-              "principes de gestion du risque",
-              "processus de gestion du risque qualité",
-              "niveau de risque",
-              "documentation"
-            ]
+            "mots_cles": ["gestion de la qualité", "gestion du risque qualité", "principes de la gestion du risque qualité", "évaluation du risque qualité", "connaissance scientifique", "protection des patients", "degré d’effort", "formalisation", "documentation", "processus de gestion du risque qualité", "niveau de risque"]
           },
           {
             "Titre": "Processus Général de Gestion du Risque Qualité",
             "Page": 112,
-            "mots_cles": [
-              "gestion du risque qualité",
-              "évaluation du risque",
-              "communication du risque",
-              "cycle de vie du produit",
-              "prise de décision",
-              "audit du risque",
-              "gestion des anomalies"
-            ]
+            "mots_cles": ["gestion du risque qualité", "évaluation du risque", "maîtrise du risque", "communication du risque", "examen des risques", "cycle de vie du produit", "modèle de gestion du risque", "prise de décision en gestion du risque", "adaptabilité du processus de gestion du risque", "équipes pluridisciplinaires", "experts en gestion du risque", "service qualité", "développement commercial", "ingénierie", "affaires réglementaires", "opérations de production", "services juridiques", "statistiques appliquées", "coordination de la gestion du risque", "allocation des ressources", "définition du problème", "identification des dangers", "analyse des données contextuelles", "impact sur la santé humaine et animale", "modèle de rapport du risque", "prise de décision basée sur la gestion du risque", "planification du risque", "probabilité d’occurrence", "gravité des conséquences", "détectabilité du risque", "notation du risque", "fiabilité des données", "hypothèses et incertitudes", "variabilité des processus", "méthodologie d’estimation du risque", "réduction du risque", "diminution de la probabilité des dommages", "analyse coût-bénéfice", "optimisation des ressources", "acceptation du risque résiduel", "prise de décision en maîtrise du risque", "nouveaux risques induits par la gestion", "stratégies de mitigation du risque", "suivi post-mesure de réduction du risque", "partage d’informations sur le risque", "gestion du risque et transparence", "communication avec les autorités compétentes", "interactions avec l’industrie pharmaceutique", "échanges avec les patients", "documentation des décisions de gestion du risque", "acceptabilité du risque", "évaluation des stratégies de maîtrise du risque", "système de suivi des risques", "revue des événements liés au risque", "mise à jour des décisions de gestion du risque", "audit du risque", "maîtrise des changements", "fréquence d’examen du risque", "gestion des anomalies", "évaluation des rappels", "nouvelle évaluation du risque"]
           },
           {
             "Titre": "Méthodologie de Gestion du Risque",
             "Page": 116,
-            "mots_cles": [
-              "gestion du risque qualité",
-              "analyse des tendances",
-              "gestion des défauts de qualité",
-              "procédures opérationnelles",
-              "outils statistiques",
-              "AMDE",
-              "HACCP",
-              "modélisation du risque"
-            ]
+            "mots_cles": ["gestion du risque qualité", "approche scientifique du risque", "prise de décision", "méthodes documentées", "évaluation de la probabilité", "gravité du risque", "détectabilité du risque", "procédures empiriques", "analyse de tendances", "gestion des défauts de qualité", "traitement des réclamations", "gestion des dérives", "affectation des ressources", "outils de gestion du risque", "procédures opérationnelles", "diagrammes de gestion du risque", "formulaires de vérification", "AMDE", "AMDEC", "arbre des défaillances", "FTA", "HACCP", "HAZOP", "PHA", "classement et filtration des risques", "outils statistiques de gestion du risque", "évaluation du risque par probabilités", "combinaison d’outils de gestion du risque", "rigueur et formalisme du risque", "complexité du problème", "criticité du problème"]
           },
           {
             "Titre": "Intégration de la Gestion du Risque Qualité",
             "Page": 117,
-            "mots_cles": [
-              "gestion du risque qualité",
-              "systèmes qualité",
-              "exigences réglementaires",
-              "contrôle qualité",
-              "inspection et évaluation",
-              "collaboration avec les autorités",
-              "optimisation des ressources"
-            ]
+            "mots_cles": ["gestion du risque qualité", "intégration du risque qualité", "systèmes qualité", "prise de décision scientifique", "exigences réglementaires", "conformité réglementaire", "prise de décision étayée", "pression de contrôle des autorités", "formation du personnel", "connaissance des processus de risque", "documentation de la gestion du risque", "harmonisation des décisions réglementaires", "interprétation des principes de gestion du risque", "élaboration de lignes directrices", "gestion de la qualité", "développement pharmaceutique", "locaux et infrastructures", "gestion des équipements", "production pharmaceutique", "contrôle qualité", "essais de stabilité", "conditionnement et étiquetage", "inspection et évaluation", "collaboration avec les autorités", "optimisation des ressources", "promotion des pratiques de gestion du risque"]
           },
           {
             "Titre": "Définitions",
             "Page": 118,
-            "mots_cles": [
-              "analyse de risque",
-              "gestion du risque",
-              "prise de décision",
-              "maîtrise du risque",
-              "communication relative au risque",
-              "système qualité",
-              "évaluation des risques"
-            ]
+            "mots_cles": ["acceptation du risque", "analyse de risque", "appréciation du risque", "communication relative au risque", "cycle de vie du produit", "danger", "détectabilité", "dommage", "évaluation du risque", "examen du risque", "exigences réglementaires", "gestion du risque", "gestion du risque qualité", "gravité du risque", "identification du risque", "maîtrise du risque", "parties prenantes", "prise de décision", "qualité du médicament", "réduction du risque", "risque pharmaceutique", "système qualité", "variabilité des données", "normes ISO", "critères de risque", "surveillance des risques", "échelle de risque", "impact sur la santé", "conformité réglementaire", "patients et professionnels de santé", "industrie pharmaceutique"]
           },
           {
             "Titre": "Références",
             "Page": 120,
-            "mots_cles": [
-              "ICH Q8",
-              "gestion du risque",
-              "analyse de la fiabilité",
-              "modes de défaillance",
-              "normes ISO",
-              "gestion des dispositifs médicaux"
-            ]
+            "mots_cles": ["ICH Q8", "développement pharmaceutique", "ISO/IEC Guide 73", "gestion du risque", "ISO/IEC Guide 51", "sécurité et normes", "process mapping", "American Productivity & Quality Center", "IEC 61025", "Fault Tree Analysis", "IEC 60812", "analyse de la fiabilité", "modes de défaillance", "FMEA", "AMDE", "Failure Mode and Effect Analysis", "analyse des effets de défaillance", "HACCP", "WHO Technical Report", "analyse des points critiques", "HAZOP", "analyse des risques et d'opérabilité", "ISO 14971", "gestion des risques pour dispositifs médicaux", "ISO 7870", "cartes de contrôle", "ISO 7871", "cartes des sommes cumulées", "ISO 7966", "cartes de contrôle pour acceptation", "ISO 8258", "cartes de contrôle de Shewhart", "Total Quality Control", "Kaoru Ishikawa", "qualité totale", "normes de gestion du risque", "dispositifs médicaux et gestion du risque"]}
+			]
           }
         ]
       },
@@ -136,91 +62,44 @@
           {
             "Titre": "Préambule",
             "Page": 130,
-            "mots_cles": [
-              "ICH Q10",
-              "système qualité pharmaceutique",
-              "assurance de la qualité",
-              "bonnes pratiques de fabrication",
-              "innovation pharmaceutique",
-              "amélioration continue"
-            ]
+            "mots_cles": ["ICH Q10", "système qualité pharmaceutique", "assurance de la qualité", "Directive 2003/94/EC", "Directive 91/412/EEC", "autorisation de fabrication", "bonnes pratiques de fabrication", "BPF", "conformité réglementaire", "cycle de vie du produit", "développement pharmaceutique", "modèle de système qualité", "mise en œuvre de l’ICH Q10", "harmonisation des BPF", "innovation pharmaceutique", "amélioration continue", "fabrication des médicaments expérimentaux", "exigences réglementaires", "mise à jour des guides BPF"]
           },
           {
             "Titre": "Système Qualité Pharmaceutique",
             "Page": 131,
-            "mots_cles": [
-              "système qualité pharmaceutique",
-              "management de la qualité",
-              "bonnes pratiques de fabrication",
-              "contrôle qualité",
-              "assurance qualité",
-              "gestion des risques qualité",
-              "audit qualité"
-            ]
+            "mots_cles": "système qualité pharmaceutique", "ICH Q10", "management de la qualité", "industrie pharmaceutique", "bonnes pratiques de fabrication", "BPF", "conformité réglementaire", "cycle de vie du produit", "développement pharmaceutique", "innovation pharmaceutique", "amélioration continue", "transfert de technologie", "fabrication commerciale", "contrôle qualité", "assurance qualité", "gestion des risques qualité", "gestion des connaissances", "surveillance de la qualité", "indicateurs de performance", "gestion des changements", "politique qualité", "manuel qualité", "performance du procédé", "actions préventives et correctrices", "responsabilités de la direction", "approche basée sur les risques", "exigences réglementaires", "normes ISO", "ICH Q8", "ICH Q9", "documentation qualité", "audit qualité", "gestion des sous-traitants", "gestion des composants", "inspection et évaluation", "interdépendance des processus", "cartographie des processus", "logigrammes qualité"]
           },
           {
             "Titre": "Responsabilité de la Direction",
             "Page": 134,
-            "mots_cles": [
-              "responsabilité de la direction",
-              "leadership qualité",
-              "gestion des fournisseurs",
-              "gestion proactive des risques",
-              "mise en conformité réglementaire"
-            ]
+            "mots_cles": ["responsabilité de la direction", "leadership qualité", "système qualité pharmaceutique", "engagement de la direction", "politique qualité", "objectifs qualité", "planification de la qualité", "indicateurs de performance", "gestion des ressources", "communication interne", "revue de direction", "gouvernance du système qualité", "gestion des activités sous-traitées", "contrôle qualité des composants", "risque qualité", "évaluation des fournisseurs", "audit qualité", "qualification des sous-traitants", "accords contractuels", "surveillance de la performance des sous-traitants", "chaîne d’approvisionnement agréée", "gestion du changement des droits de propriété", "transfert d’information", "assurance qualité", "gestion proactive des risques", "alignement stratégique", "mise en conformité réglementaire", "déploiement du système qualité"]
           },
           {
             "Titre": "Amélioration Continue des Performances du Procédé",
             "Page": 136,
-            "mots_cles": [
-              "amélioration continue",
-              "performances du procédé",
-              "contrôle des processus",
-              "analyse des tendances",
-              "audit qualité",
-              "validation des procédés"
-            ]
+            "mots_cles": ["amélioration continue", "performances du procédé", "qualité du produit", "cycle de vie du produit", "développement pharmaceutique", "transfert de technologies", "fabrication commerciale", "arrêt du produit", "système de surveillance de la performance", "actions préventives et correctrices", "CAPA", "gestion des changements", "revue de direction", "système qualité pharmaceutique", "stratégie de contrôle", "gestion des risques qualité", "innovation pharmaceutique", "analyse des variations", "contrôle des processus", "analyse statistique", "surveillance des paramètres critiques", "indicateurs de performance qualité", "non-conformités", "gestion des déviations", "audit qualité", "validation des procédés", "documentation qualité", "exigences réglementaires", "conformité aux BPF", "évaluation des tendances", "recherche d'amélioration", "analyse des réclamations", "gestion des écarts d'audit", "maîtrise des risques", "décisions basées sur les données", "réduction de la variabilité", "approche scientifique", "retour d'information qualité"]
           },
+		   {"Titre": "Amélioration Continue du Système Qualité Pharmaceutique", 
+		   "Page": 141,
+		   "mots_cles": ["amélioration continue", "système qualité pharmaceutique", "revue de la direction", "mesure des objectifs qualité", "indicateurs de performance", "gestion des réclamations", "gestion des déviations", "CAPA", "gestion des changements", "surveillance des activités sous-traitées", "processus d’auto-évaluation", "analyse des tendances", "audit interne", "inspection réglementaire", "audit client", "facteurs internes et externes", "nouvelles réglementations", "directives qualité", "innovations pharmaceutiques", "changement d’environnement", "objectifs commerciaux", "gestion des droits de propriété", "allocation des ressources", "formation du personnel", "révision de la politique qualité", "documentation qualité", "communication des résultats", "remontée des problèmes", "efficacité du système qualité", "conformité réglementaire", "gestion proactive des risques"] 
+		   },
           {
             "Titre": "Glossaire",
             "Page": 142,
-            "mots_cles": [
-              "action corrective",
-              "amélioration continue",
-              "gestion des changements",
-              "contrôle des processus",
-              "exigences réglementaires"
-            ]
+            "mots_cles": ["action corrective", "action préventive", "activités sous-traitées", "amélioration continue", "capacité d’un processus", "direction", "espace de conception", "facilitateur", "flux d’informations en amont et aval", "gestion des changements", "gestion des connaissances", "indicateurs de performance", "innovation", "management des risques qualité", "manuel qualité", "objectifs qualité", "phase maîtrisée", "planification de la qualité", "politique qualité", "qualité pharmaceutique", "réalisation du produit", "stratégie de contrôle", "système qualité pharmaceutique", "système de management de la qualité", "contrôle des processus", "exigences réglementaires", "gestion des composants", "analyse de la performance", "audit qualité", "validation des procédés", "évaluation des risques", "surveillance des paramètres critiques", "documentation qualité", "conformité aux BPF", "exigences ISO", "contrôle des matières premières", "contrôle en cours de fabrication", "spécifications du produit fini", "cycle de vie du produit", "évaluation des tendances"]
           }
         ]
       },
       {
         "Titre": "Exigences Internationales Harmonisées pour la Certification d’un Lot",
         "Page": 147,
-        "mots_cles": [
-          "certification des lots",
-          "évaluation de la conformité",
-          "Bonnes Pratiques de Fabrication",
-          "BPF",
-          "libération des lots",
-          "contrôle qualité",
-          "inspection réglementaire",
-          "importation et exportation pharmaceutique"
-        ]
+        "mots_cles": ["certification des lots", "exigences internationales harmonisées", "évaluation de la conformité", "acceptation des produits industriels", "Bonnes Pratiques de Fabrication", "BPF", "Accords de Reconnaissance Mutuelle", "ARM", "certificat de lot", "libération des lots", "autorisation de mise sur le marché", "AMM", "analyse qualitative et quantitative", "spécifications des médicaments", "méthodes analytiques", "contrôle qualité", "inspection réglementaire", "importation et exportation pharmaceutique", "gestion des établissements de fabrication", "conformité réglementaire", "directive 2001/83/CE", "directive 2001/82/EC", "annexe 16 des BPF", "médicaments expérimentaux", "audit qualité", "EudraGMDP", "résultats d’analyse", "traçabilité des médicaments", "gestion des numéros de lot", "stabilité des médicaments", "responsabilité pharmaceutique", "déclaration de certification", "conditions de stockage", "transport des médicaments", "signature de libération de lot"]
       },
       {
         "Titre": "Lignes Directrices du 19 mars 2015 Relatives à l’Évaluation Formalisée du Risque pour les Excipients",
         "Page": 151,
-        "mots_cles": [
-          "évaluation formalisée du risque",
-          "bonnes pratiques de fabrication",
-          "BPF",
-          "excipients pharmaceutiques",
-          "gestion des risques qualité",
-          "audit qualité",
-          "conformité réglementaire",
-          "sécurité des médicaments"
-        ]
+        "mots_cles": ["évaluation formalisée du risque", "bonnes pratiques de fabrication", "BPF", "excipients pharmaceutiques", "directive 2001/83/CE", "système qualité pharmaceutique", "gestion des risques qualité", "EudraLex volume 4", "ICH Q9", "analyse des risques et maîtrise des points critiques", "HACCP", "audit qualité", "qualification des fournisseurs", "contrôle qualité des excipients", "gestion des non-conformités", "traçabilité des matières premières", "conformité réglementaire", "certification BPF", "analyse des écarts", "gestion des modifications", "auto-inspection", "surveillance des conditions de stockage", "profil de risque des excipients", "contrôle de l’environnement", "documentation qualité", "validation des procédés", "revue continue des risques", "indicateurs de performance qualité", "analyse tendancielle", "gestion des réclamations", "rappel des excipients", "gestion des sous-traitants", "sécurité des médicaments", "intégrité du conditionnement", "transport des excipients"] }
+		]
       }
     ]
   }
